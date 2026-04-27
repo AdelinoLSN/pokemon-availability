@@ -1,0 +1,30 @@
+[
+  {
+    "number": 2,
+    "name": "Ivysaur",
+    "form": "Kanto",
+    "availability": [
+      { "game": "RGBY", "method": "E" },
+      { "game": "FRLG", "method": "E" },
+      { "game": "HGSS", "method": "E" },
+      { "game": "BW", "method": "E" },
+      { "game": "XY", "method": "C", "notes": "Friend Safari" },
+      { "game": "USUM", "method": "E" },
+      { "game": "LGPE", "method": "E" },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "Wild Area News (2020); Wild Area News(2021)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "Max Lair (Dynamax Adventure)"
+      },
+      { "game": "BDSP", "method": "E" },
+      { "game": "SV", "method": "E" },
+      { "game": "ZA", "method": "E" },
+      { "game": "ZA", "method": "CD", "notes": "Hyperspace" }
+    ]
+  }
+]
