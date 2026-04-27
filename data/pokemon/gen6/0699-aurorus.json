@@ -1,0 +1,18 @@
+[
+  {
+    "number": 699,
+    "name": "Aurorus",
+    "form": "Kalos",
+    "availability": [
+      { "game": "XY", "method": "E" },
+      { "game": "USUM", "method": "E" },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "Wanderer; Dynamax Adventures; Max Raid Battle"
+      },
+      { "game": "ZA", "method": "E" },
+      { "game": "ZA", "method": "CD", "notes": "Hyperspace" }
+    ]
+  }
+]
