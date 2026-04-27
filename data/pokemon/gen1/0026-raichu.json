@@ -1,0 +1,63 @@
+[
+  {
+    "number": 26,
+    "name": "Raichu",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGB) Cerulean Cave; (GB) Power Plant"
+      },
+      { "game": "GSC", "method": "E" },
+      { "game": "RSE", "method": "E" },
+      { "game": "FRLG", "method": "E" },
+      { "game": "DPPt", "method": "E" },
+      { "game": "HGSS", "method": "E" },
+      { "game": "B2W2", "method": "E" },
+      { "game": "XY", "method": "E" },
+      { "game": "ORAS", "method": "E" },
+      {
+        "game": "USUM",
+        "method": "E",
+        "notes": "Evolve Pikachu in Ultra Space"
+      },
+      { "game": "LGPE", "method": "E" },
+      { "game": "SwSh", "method": "C", "notes": "Max Raid Battle" },
+      { "game": "SwSh", "method": "CD" },
+      { "game": "BDSP", "method": "E" },
+      { "game": "PLA", "method": "C" },
+      { "game": "SV", "method": "C" },
+      { "game": "SV", "method": "CD", "notes": "Poké Portal News (2020)" },
+      { "game": "ZA", "method": "C", "notes": "Wild Zone 20" },
+      { "game": "ZA", "method": "CD", "notes": "Hyperspace Lumiose" }
+    ]
+  },
+  {
+    "number": 26,
+    "name": "Raichu",
+    "form": "Alola",
+    "availability": [
+      { "game": "SM", "method": "E" },
+      { "game": "USUM", "method": "E" },
+      {
+        "game": "LGPE",
+        "method": "T",
+        "notes": "Trade Kantonian Raichu in Saffron City"
+      },
+      {
+        "game": "SwSh",
+        "method": "RD",
+        "notes": "Reward for finding at least 40 Alolan Diglett"
+      },
+      { "game": "SwSh", "method": "CD", "notes": "Dynamax Adventure" },
+      { "game": "SV", "method": "CD", "notes": "Poké Portal News (2020)" },
+      {
+        "game": "ZA",
+        "method": "T",
+        "notes": "Trade Kantonian Raichu at Quasartico Inc. during Side Mission 108"
+      },
+      { "game": "ZA", "method": "CD", "notes": "Hyperspace Lumiose" }
+    ]
+  }
+]
