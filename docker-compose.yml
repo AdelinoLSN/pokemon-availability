@@ -1,0 +1,29 @@
+version: "3.9"
+
+services:
+  app:
+    build: .
+    container_name: pokemon-etl
+    depends_on:
+      - db
+    volumes:
+      - ./data:/app/data
+    environment:
+      - DB_DSN=postgres://postgres:postgres@db:5432/pokemon?sslmode=disable
+    command: ["./pokemon-app"]
+
+  db:
+    image: postgres:15
+    container_name: pokemon-db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: pokemon
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
