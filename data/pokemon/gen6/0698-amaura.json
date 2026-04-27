@@ -1,0 +1,26 @@
+[
+  {
+    "number": 698,
+    "name": "Amaura",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "R",
+        "notes": "Revive Sail Fossil at Ambrette Town Fossil Lab"
+      },
+      {
+        "game": "USUM",
+        "method": "R",
+        "notes": "Revive Sail Fossil at Fossil Restoration Center on Route 8"
+      },
+      { "game": "SwSh", "method": "CD" },
+      {
+        "game": "ZA",
+        "method": "R",
+        "notes": "Revive Sail Fossil at Pokémon Research Lab"
+      },
+      { "game": "ZA", "method": "CD", "notes": "Hyperspace" }
+    ]
+  }
+]
