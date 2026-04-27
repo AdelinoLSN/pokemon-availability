@@ -1,0 +1,97 @@
+[
+  {
+    "abbreviation": "RGBY",
+    "name": "Red, Green, Blue & Yellow",
+    "generation": 1
+  },
+  {
+    "abbreviation": "GSC",
+    "name": "Gold, Silver & Crystal",
+    "generation": 2
+  },
+  {
+    "abbreviation": "RSE",
+    "name": "Ruby, Sapphire & Emerald",
+    "generation": 3
+  },
+  {
+    "abbreviation": "FRLG",
+    "name": "FireRed & LeafGreen",
+    "generation": 3
+  },
+  {
+    "abbreviation": "DPPt",
+    "name": "Diamond, Pearl & Platinum",
+    "generation": 4
+  },
+  {
+    "abbreviation": "HGSS",
+    "name": "HeartGold & SoulSilver",
+    "generation": 4
+  },
+  {
+    "abbreviation": "BW",
+    "name": "Black & White",
+    "generation": 5
+  },
+  {
+    "abbreviation": "B2W2",
+    "name": "Black 2 & White 2",
+    "generation": 5
+  },
+  {
+    "abbreviation": "XY",
+    "name": "X & Y",
+    "generation": 6
+  },
+  {
+    "abbreviation": "ORAS",
+    "name": "Omega Ruby & Alpha Sapphire",
+    "generation": 6
+  },
+  {
+    "abbreviation": "SM",
+    "name": "Sun & Moon",
+    "generation": 7
+  },
+  {
+    "abbreviation": "USUM",
+    "name": "Ultra Sun & Ultra Moon",
+    "generation": 7
+  },
+  {
+    "abbreviation": "LGPE",
+    "name": "Let's GO, Pikachu! & Let's GO, Eevee!",
+    "generation": 7
+  },
+  {
+    "abbreviation": "SwSh",
+    "name": "Sword & Shield",
+    "generation": 8
+  },
+  {
+    "abbreviation": "BDSP",
+    "name": "Brilliant Diamond & Shining Pearl",
+    "generation": 8
+  },
+  {
+    "abbreviation": "PLA",
+    "name": "Legends: Arceus",
+    "generation": 8
+  },
+  {
+    "abbreviation": "SV",
+    "name": "Scarlet & Violet",
+    "generation": 9
+  },
+  {
+    "abbreviation": "ZA",
+    "name": "Legends: Z-A",
+    "generation": 9
+  },
+  {
+    "abbreviation": "WiWa",
+    "name": "Winds & Waves",
+    "generation": 10
+  }
+]

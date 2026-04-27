@@ -1,0 +1,15 @@
+{
+    "C": "Catch",
+    "R": "Received",
+    "T": "In-game trade",
+    "E": "Evolve",
+    "B": "Breed",
+
+    "CS": "Catch (Side Game)",
+
+    "CD": "Catch (DLC)",
+    "RD": "Received (DLC)",
+    "TD": "In-game trade (DLC)",
+    "ED": "Evolve (DLC)",
+    "BD": "Breed (DLC)"
+}
