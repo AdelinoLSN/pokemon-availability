@@ -1,0 +1,30 @@
+[
+  {
+    "number": 47,
+    "name": "Parasect",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "Safari Zone; Cerulean Cave; (Y) Trade for Tangela in Route 18"
+      },
+      { "game": "GSC", "method": "C", "notes": "(C) Mt. Silver Cave" },
+      { "game": "FRLG", "method": "C", "notes": "Safari Zone; Cerulean Cave" },
+      { "game": "DPPt", "method": "E" },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "Cerulean Cave; Safari Zone (tall grass in Swamp with 3 Plains points)"
+      },
+      { "game": "BW", "method": "E" },
+      { "game": "XY", "method": "E" },
+      { "game": "ORAS", "method": "E" },
+      { "game": "SM", "method": "E" },
+      { "game": "USUM", "method": "C", "notes": "Route 11 (Day)" },
+      { "game": "LGPE", "method": "E" },
+      { "game": "BDSP", "method": "E" },
+      { "game": "PLA", "method": "C" }
+    ]
+  }
+]
