@@ -1,0 +1,68 @@
+[
+  {
+    "number": 1,
+    "name": "Bulbasaur",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "R",
+        "notes": "(RGB) First partner Pokémon from Professor Oak in Pallet Town; (Y) Received from a girl in Cerulean City if the partner Pikachu's friendship is 147 or higher"
+      },
+      {
+        "game": "FRLG",
+        "method": "R",
+        "notes": "First partner Pokémon from Professor Oak in Pallet Town"
+      },
+      {
+        "game": "HGSS",
+        "method": "R",
+        "notes": "Received from Professor Oak in Pallet Town after defeating Red"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "Dream World (Global Link Event) (J)"
+      },
+      {
+        "game": "XY",
+        "method": "R",
+        "notes": "Received from Professor Sycamore at the Sycamore Pokémon Lab in Lumiose City"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "Island Scan Route 2 (available on Fridays)"
+      },
+      { "game": "LGPE", "method": "C", "notes": "Catch in Viridian Forest" },
+      {
+        "game": "LGPE",
+        "method": "R",
+        "notes": "Gift in Cerulean City (Only one)"
+      },
+      { "game": "SwSh", "method": "C", "notes": "Wild Area News (2020)" },
+      { "game": "SwSh", "method": "RD", "notes": "Master Dojo (Only One)" },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "Grand Underground (available after obtaining the National Pokédex)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "Coastal Biome; Torhlit Labyrinth"
+      },
+      {
+        "game": "ZA",
+        "method": "R",
+        "notes": "Received in Pokémon Research Lab (Received from Mable during Side Mission 22)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "Wild Zone 20 (After beat the main Story)"
+      },
+      { "game": "ZA", "method": "CD", "notes": "Hyperspace" }
+    ]
+  }
+]
