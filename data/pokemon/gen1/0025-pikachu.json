@@ -1,0 +1,81 @@
+[
+  {
+    "number": 25,
+    "name": "Pikachu",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGB) Viridian Forest; Power Plant"
+      },
+      {
+        "game": "RGBY",
+        "method": "R",
+        "notes": "(B) Rocket Game Corner; (Y) First Pokémon from Professor Oak in Pallet Town"
+      },
+      { "game": "GSC", "method": "C", "notes": "(GSC) Route 2" },
+      { "game": "GSC", "method": "R", "notes": "(C) Celadon Game Corner" },
+      { "game": "RSE", "method": "C", "notes": "Safari Zone" },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "Viridian Forest; Power Plant"
+      },
+      { "game": "DPPt", "method": "C", "notes": "Trophy Garden" },
+      { "game": "HGSS", "method": "C", "notes": "Virdian Forest" },
+      { "game": "HGSS", "method": "T", "notes": "Saffron City" },
+      {
+        "game": "HGSS",
+        "method": "CS",
+        "notes": "(Pokéwalker) Resort; Yellow Forest; Rally; Sightseeing"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "Dream World (Global Link Event)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "Santalune Forest; Route 3; Friend Safari (Electric)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "Safari Zone (Zone 1 long grass)"
+      },
+      {
+        "game": "ORAS",
+        "method": "R",
+        "notes": "Received at the Contest Hall after first Pokémon Contest (Cosplay Pikachu)"
+      },
+      { "game": "SM", "method": "C" },
+      { "game": "USUM", "method": "C" },
+      {
+        "game": "USUM",
+        "method": "R",
+        "notes": "Heahea City (Surf Association) (Only One); Pikachu Valley (QR Scanner) (Only One) (Partner Cap Pikachu)"
+      },
+      { "game": "LGPE", "method": "C", "notes": "Viridian Forest" },
+      {
+        "game": "LGPE",
+        "method": "R",
+        "notes": "(LGP) First Pokémon from Professor Oak in Pallet Town (Partner Pikachu)"
+      },
+      { "game": "SwSh", "method": "C" },
+      {
+        "game": "SwSh",
+        "method": "R",
+        "notes": "Meetup Spot (Only One) (Gigantamax Factor) (Save game for LGPE)"
+      },
+      { "game": "SwSh", "method": "CD" },
+      { "game": "BDSP", "method": "C", "notes": "Trophy Garden" },
+      { "game": "PLA", "method": "C" },
+      { "game": "SV", "method": "C" },
+      { "game": "SV", "method": "CD" },
+      { "game": "ZA", "method": "C" },
+      { "game": "ZA", "method": "CD", "notes": "Hyperspace" }
+    ]
+  }
+]
