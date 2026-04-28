@@ -1,0 +1,35 @@
+[
+  {
+    "number": 671,
+    "name": "Florges",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Bleu District: Wild Zone 16 (Blue Flower & White Flower); Centrico Plaza: Wild Zone 20  (Red Flower)"
+      },
+      {
+        "game": "ZA",
+        "method": "ED",
+        "notes": "Evolve Yellow Flower and Orange Flower"
+      }
+    ]
+  }
+]
