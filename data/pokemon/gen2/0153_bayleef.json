@@ -1,0 +1,22 @@
+[
+  {
+    "number": 153,
+    "name": "Bayleef",
+    "form": "Johto",
+    "availability": [
+      { "game": "GSC", "method": "E" },
+      { "game": "RSE", "method": "E", "notes": "(E) Evolve from Chikorita" },
+      { "game": "HGSS", "method": "E" },
+      { "game": "ORAS", "method": "E" },
+      { "game": "SM", "method": "E" },
+      { "game": "BDSP", "method": "E" },
+      { "game": "SV", "method": "ED" },
+      { "game": "ZA", "method": "ED" },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Grass (3 Star), Grass (4 Star)"
+      }
+    ]
+  }
+]
