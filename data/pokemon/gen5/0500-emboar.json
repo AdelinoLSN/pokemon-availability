@@ -1,0 +1,39 @@
+[
+  {
+    "number": 500,
+    "name": "Emboar",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "Ancient Poni Path (Island Scan) (Saturday)"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Fighting (4 Star), Fire (4 Star)"
+      }
+    ]
+  }
+]
