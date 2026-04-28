@@ -1,0 +1,38 @@
+[
+  {
+    "number": 499,
+    "name": "Pignite",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Fighting (3 Star), Fighting (4 Star), Fire (3 Star), Fire (4 Star)"
+      }
+    ]
+  }
+]
