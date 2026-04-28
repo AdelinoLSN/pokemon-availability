@@ -22,7 +22,7 @@
         "notes": "Max Lair (Dynamax Adventure)"
       },
       { "game": "BDSP", "method": "E" },
-      { "game": "SV", "method": "E" },
+      { "game": "SV", "method": "ED" },
       { "game": "ZA", "method": "E" },
       { "game": "ZA", "method": "CD", "notes": "Hyperspace" }
     ]
