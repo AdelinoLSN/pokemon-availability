@@ -1,0 +1,22 @@
+[
+  {
+    "number": 154,
+    "name": "Meganium",
+    "form": "Johto",
+    "availability": [
+      { "game": "GSC", "method": "E" },
+      { "game": "RSE", "method": "E", "notes": "(E) Evolve from Bayleef" },
+      { "game": "HGSS", "method": "E" },
+      { "game": "ORAS", "method": "E" },
+      { "game": "SM", "method": "E" },
+      { "game": "BDSP", "method": "E" },
+      { "game": "SV", "method": "ED" },
+      { "game": "ZA", "method": "ED" },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Grass (4 Star)"
+      }
+    ]
+  }
+]
