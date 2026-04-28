@@ -1,0 +1,46 @@
+[
+  {
+    "number": 160,
+    "name": "Feraligatr",
+    "form": "Johto",
+    "availability": [
+      {
+        "game": "GSC",
+        "method": "E"
+      },
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Water (4 Star)"
+      }
+    ]
+  }
+]
