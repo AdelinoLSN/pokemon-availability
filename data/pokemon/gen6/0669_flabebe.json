@@ -1,0 +1,37 @@
+[
+  {
+    "number": 669,
+    "name": "Flabébé",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "Routes 4 and 7 (yellow flowers) (Yellow/Orange/White Flowers); Route 4 (red flowers) (Red/Orange/White Flowers); Route 7 (tall grass) (Orange/White Flowers); Route 7 (purple flowers): (Blue/Orange/White Flowers)"
+      },
+      {
+        "game": "USUM",
+        "method": "B",
+        "notes": "Breed Floette (Red/Blue Flowers)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "Melemele Meadow (Yellow Flower); Melemele Meadow (SOS Battle) (Yellow/Orange/White Flowers)"
+      },
+      {
+        "game": "SV",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Fairy (2 Star), Fairy (3 Star)"
+      }
+    ]
+  }
+]
