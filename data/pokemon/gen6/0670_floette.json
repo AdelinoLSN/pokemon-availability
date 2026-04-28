@@ -1,0 +1,42 @@
+[
+  {
+    "number": 670,
+    "name": "Floette",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "Friend Safari (Fairy) (Blue/Red/Yellow Flowers)"
+      },
+      {
+        "game": "XY",
+        "method": "E",
+        "notes": "Evolve Flabébé (Orange/White Flowers)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "Ula'ula Meadow (Red Flower); Ula'ula Meadow (SOS Battle) (Red/White/Orange Flowers); Poni Meadow (Blue Flower)"
+      },
+      {
+        "game": "USUM",
+        "method": "E",
+        "notes": "Evolve Flabébé (Yellow Flower)"
+      },
+      {
+        "game": "SV",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Fairy (3 Star), Fairy (4 Star)"
+      }
+    ]
+  }
+]
