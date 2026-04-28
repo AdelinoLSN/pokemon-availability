@@ -1,0 +1,47 @@
+[
+  {
+    "number": 152,
+    "name": "Chikorita",
+    "form": "Johto",
+    "availability": [
+      { "game": "GSC", "method": "R" },
+      {
+        "game": "RSE",
+        "method": "R",
+        "notes": "(E) Received from Professor Birch at Littleroot Town after completing the Hoenn Pokédex"
+      },
+      { "game": "HGSS", "method": "R" },
+      {
+        "game": "ORAS",
+        "method": "R",
+        "notes": "Received from Professor Birch on Route 101 after first entering the Hall of Fame"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "Route 2 (Island Scan) (Friday)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "Grand Underground - Grassland Cave, Sunlit Cavern, Riverbank Cave, Still-Water Cavern (after obtaining the National Pokédex)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "Coastal Biome, Torchlit Labyrinth (after boosting biodiversity in the Coastal Biome)"
+      },
+      { "game": "ZA", "method": "R" },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "Wild Zone 20 (After beat the main Story)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Grass (2 Star), Grass (3 Star)"
+      }
+    ]
+  }
+]
