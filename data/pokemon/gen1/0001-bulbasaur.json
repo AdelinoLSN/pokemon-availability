@@ -21,7 +21,7 @@
       },
       {
         "game": "BW",
-        "method": "C",
+        "method": "CE",
         "notes": "Dream World (Global Link Event) (J)"
       },
       {
@@ -40,7 +40,7 @@
         "method": "R",
         "notes": "Gift in Cerulean City (Only one)"
       },
-      { "game": "SwSh", "method": "C", "notes": "Wild Area News (2020)" },
+      { "game": "SwSh", "method": "CE", "notes": "Wild Area News (2020)" },
       { "game": "SwSh", "method": "RD", "notes": "Master Dojo (Only One)" },
       {
         "game": "BDSP",

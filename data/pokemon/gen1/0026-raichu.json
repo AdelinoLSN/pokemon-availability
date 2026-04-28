@@ -28,7 +28,7 @@
       { "game": "BDSP", "method": "E" },
       { "game": "PLA", "method": "C" },
       { "game": "SV", "method": "C" },
-      { "game": "SV", "method": "CD", "notes": "Poké Portal News (2020)" },
+      { "game": "SV", "method": "CED", "notes": "Poké Portal News (2020)" },
       { "game": "ZA", "method": "C", "notes": "Wild Zone 20" },
       { "game": "ZA", "method": "CD", "notes": "Hyperspace Lumiose" }
     ]
@@ -51,7 +51,7 @@
         "notes": "Reward for finding at least 40 Alolan Diglett"
       },
       { "game": "SwSh", "method": "CD", "notes": "Dynamax Adventure" },
-      { "game": "SV", "method": "CD", "notes": "Poké Portal News (2020)" },
+      { "game": "SV", "method": "CED", "notes": "Poké Portal News (2020)" },
       {
         "game": "ZA",
         "method": "T",

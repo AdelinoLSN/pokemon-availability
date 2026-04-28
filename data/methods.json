@@ -6,8 +6,10 @@
     "B": "Breed",
 
     "CS": "Catch (Side Game)",
+    "CE": "Catch (Event)",
 
     "CD": "Catch (DLC)",
+    "CED": "Catch (Event) (DLC)",
     "RD": "Received (DLC)",
     "TD": "In-game trade (DLC)",
     "ED": "Evolve (DLC)",
