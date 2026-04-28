@@ -1,0 +1,45 @@
+[
+  {
+    "number": 661,
+    "name": "Fletchling",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "Routes 2 and 3, Santalune Forest"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "Wela Volcano Park, Poké Pelago (Ula'Ula Island)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "Route 8, Wela Volcano Park"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD"
+      },
+      {
+        "game": "SV",
+        "method": "C"
+      },
+      {
+        "game": "SV",
+        "method": "CD"
+      },
+      {
+        "game": "ZA",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Normal (1 Star), Normal (2 Star), Flying (1 Star), Flying (3 Star), Fire (3 Star)"
+      }
+    ]
+  }
+]
