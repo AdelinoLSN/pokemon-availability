@@ -1,0 +1,48 @@
+[
+  {
+    "number": 498,
+    "name": "Tepig",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "R",
+        "notes": "First partner Pokémon from Professor Juniper in Nuvema Town"
+      },
+      {
+        "game": "B2W2",
+        "method": "R",
+        "notes": "First partner Pokémon from Bianca in Aspertia City"
+      },
+      {
+        "game": "ORAS",
+        "method": "R",
+        "notes": "Received from Professor Birch on Route 101 after completing the Delta Episode"
+      },
+      {
+        "game": "SM",
+        "method": "B"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "Canyon Biome, Chargestone Cavern (after boosting biodiversity in the Canyon Biome) "
+      },
+      {
+        "game": "ZA",
+        "method": "R",
+        "notes": "First partner Pokémon from Taunie/Urbain in Vert Sector 8"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "Wild Zone 20"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Fighting (3 Star), Fire (2 Star), Fire (3 Star)"
+      }
+    ]
+  }
+]
