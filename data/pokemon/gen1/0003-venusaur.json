@@ -1,0 +1,33 @@
+[
+  {
+    "number": 3,
+    "name": "Venusaur",
+    "form": "Kanto",
+    "availability": [
+      { "game": "RGBY", "method": "E" },
+      { "game": "FRLG", "method": "E" },
+      { "game": "HGSS", "method": "E" },
+      { "game": "BW", "method": "E" },
+      { "game": "XY", "method": "E" },
+      { "game": "USUM", "method": "E" },
+      { "game": "LGPE", "method": "E" },
+      {
+        "game": "SwSh",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "Max Raid Battle"
+      },
+      { "game": "BDSP", "method": "E" },
+      { "game": "SV", "method": "ED" },
+      { "game": "ZA", "method": "E" },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Poison (4 Star), Grass (4 Star), Grass (5 Star)"
+      }
+    ]
+  }
+]
