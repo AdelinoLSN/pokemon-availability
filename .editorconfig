@@ -1,0 +1,14 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+tab_width = 2
+
+# Trim trailing whitespace & ensure newline
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Markdown files
+[*.md]
+trim_trailing_whitespace = false
