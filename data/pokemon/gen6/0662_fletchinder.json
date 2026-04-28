@@ -1,0 +1,43 @@
+[
+  {
+    "number": 662,
+    "name": "Fletchinder",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "Friend Safari (Fire and Flying)"
+      },
+      {
+        "game": "SM",
+        "method": "C"
+      },
+      {
+        "game": "USUM",
+        "method": "C"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD"
+      },
+      {
+        "game": "SV",
+        "method": "C"
+      },
+      {
+        "game": "SV",
+        "method": "CD"
+      },
+      {
+        "game": "ZA",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Flying (3 Star), Flying (4 Star), Fire (3 Star), Fire (4 Star)"
+      }
+    ]
+  }
+]
