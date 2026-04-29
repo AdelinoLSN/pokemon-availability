@@ -1,0 +1,73 @@
+[
+  {
+    "number": 8,
+    "name": "Wartortle",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "E",
+        "notes": "Evolve Squirtle"
+      },
+      {
+        "game": "FRLG",
+        "method": "E",
+        "notes": "Evolve Squirtle"
+      },
+      {
+        "game": "HGSS",
+        "method": "E",
+        "notes": "Evolve Squirtle"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "Friend Safari (Water)"
+      },
+      {
+        "game": "USUM",
+        "method": "E",
+        "notes": "Evolve Squirtle"
+      },
+      {
+        "game": "LGPE",
+        "method": "E",
+        "notes": "Evolve Squirtle"
+      },
+      {
+        "game": "SwSh",
+        "method": "CE",
+        "notes": "Wild Area News (2020)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "Max Lair (Dynamax Adventure)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E",
+        "notes": "Evolve Squirtle"
+      },
+      {
+        "game": "SV",
+        "method": "ED",
+        "notes": "Evolve Squirtle"
+      },
+      {
+        "game": "ZA",
+        "method": "E",
+        "notes": "Evolve Squirtle"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Water (3 Star), Water (4 Star)"
+      }
+    ]
+  }
+]
