@@ -1,0 +1,73 @@
+[
+  {
+    "number": 5,
+    "name": "Charmeleon",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "E",
+        "notes": "Evolve Charmander"
+      },
+      {
+        "game": "FRLG",
+        "method": "E",
+        "notes": "Evolve Charmander"
+      },
+      {
+        "game": "HGSS",
+        "method": "E",
+        "notes": "Evolve Charmander"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "Friend Safari (Fire)"
+      },
+      {
+        "game": "USUM",
+        "method": "E",
+        "notes": "Evolve Charmander"
+      },
+      {
+        "game": "LGPE",
+        "method": "E",
+        "notes": "Evolve Charmander"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "Hammerlocke Hills, Lake of Outrage (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "Max Lair (Dynamax Adventure)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E",
+        "notes": "Evolve Charmander"
+      },
+      {
+        "game": "SV",
+        "method": "ED",
+        "notes": "Evolve Charmander"
+      },
+      {
+        "game": "ZA",
+        "method": "E",
+        "notes": "Evolve Charmander"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Flying (4 Star), Fire (3 Star), Fire (4 Star)"
+      }
+    ]
+  }
+]
