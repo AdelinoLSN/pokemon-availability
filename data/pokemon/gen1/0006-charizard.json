@@ -1,0 +1,78 @@
+[
+  {
+    "number": 6,
+    "name": "Charizard",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "E",
+        "notes": "Evolve Charmeleon"
+      },
+      {
+        "game": "FRLG",
+        "method": "E",
+        "notes": "Evolve Charmeleon"
+      },
+      {
+        "game": "HGSS",
+        "method": "E",
+        "notes": "Evolve Charmeleon"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E",
+        "notes": "Evolve Charmeleon"
+      },
+      {
+        "game": "USUM",
+        "method": "E",
+        "notes": "Evolve Charmeleon"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "Routes 1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23, 24, and 25"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "Hammerlocke Hills (Max Raid Battle); Lake of Outrage (Max Raid Battle) (Gigantamax Factor)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "Fields of Honor, Loop Lagoon (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E",
+        "notes": "Evolve Charmeleon"
+      },
+      {
+        "game": "SV",
+        "method": "CE",
+        "notes": "Poké Portal News (2022); Poké Portal News (2024); Poké Portal News (2026)"
+      },
+      {
+        "game": "SV",
+        "method": "E",
+        "notes": "Evolve Charmeleon"
+      },
+      {
+        "game": "ZA",
+        "method": "E",
+        "notes": "Evolve Charmeleon"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose"
+      }
+    ]
+  }
+]
