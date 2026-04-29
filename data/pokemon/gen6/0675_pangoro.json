@@ -1,0 +1,41 @@
+[
+  {
+    "number": 675,
+    "name": "Pangoro",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "SOS Battle"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "SOS Battle"
+      },
+      {
+        "game": "SwSh",
+        "method": "C"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "Dynamax Adventures"
+      },
+      {
+        "game": "ZA",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Fighting (4 Star), Dark (4 Star), Special (5 Star)"
+      }
+    ]
+  }
+]
