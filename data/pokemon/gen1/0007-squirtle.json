@@ -1,0 +1,84 @@
+[
+  {
+    "number": 7,
+    "name": "Squirtle",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "R",
+        "notes": "(RGB) First partner Pokémon from Professor Oak in Pallet Town; (Y) Received from Officer Jenny in Vermilion City after receiving the Thunder Badge;"
+      },
+      {
+        "game": "FRLG",
+        "method": "R",
+        "notes": "First partner Pokémon from Professor Oak in Pallet Town"
+      },
+      {
+        "game": "HGSS",
+        "method": "R",
+        "notes": "Received from Professor Oak in Pallet Town after defeating Red"
+      },
+      {
+        "game": "BW",
+        "method": "CE",
+        "notes": "Dream World (Global Link Event) (J)"
+      },
+      {
+        "game": "XY",
+        "method": "R",
+        "notes": "Received from Professor Sycamore at the Sycamore Pokémon Lab in Lumiose City"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "Seaward Cave (Island Scan) (Monday)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "Route 24, Route 25, Seafoam Islands"
+      },
+      {
+        "game": "LGPE",
+        "method": "R",
+        "notes": "Vermilion City (Only one)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CE",
+        "notes": "Wild Area News (2020)"
+      },
+      {
+        "game": "SwSh",
+        "method": "R",
+        "notes": "Master Dojo (Only one; Gigantamax Factor)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "Grand Underground - Fountainspring Cave, Riverbank Cave, Still-Water Cavern (after obtaining the National Pokédex)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "Canyon Biome (after boosting biodiversity in the Canyon Biome)"
+      },
+      {
+        "game": "ZA",
+        "method": "R",
+        "notes": "Vert District: Pokémon Research Lab (Received from Mable during Side Mission 22)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "Centrico Plaza: Wild Zone 20"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Water (2 Star), Water (3 Star), Water (5 Star)"
+      }
+    ]
+  }
+]
