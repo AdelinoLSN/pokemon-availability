@@ -1,0 +1,84 @@
+[
+  {
+    "number": 4,
+    "name": "Charmander",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "R",
+        "notes": "(RGB) First partner Pokémon from Professor Oak in Pallet Town; (Y) Received from a boy on Route 24"
+      },
+      {
+        "game": "FRLG",
+        "method": "R",
+        "notes": "First partner Pokémon from Professor Oak in Pallet Town"
+      },
+      {
+        "game": "HGSS",
+        "method": "R",
+        "notes": "Received from Professor Oak in Pallet Town after defeating Red"
+      },
+      {
+        "game": "BW",
+        "method": "CE",
+        "notes": "Dream World (Global Link Event) (J)"
+      },
+      {
+        "game": "XY",
+        "method": "R",
+        "notes": "Received from Professor Sycamore at the Sycamore Pokémon Lab in Lumiose City"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "Route 3 (Island Scan) (Sunday)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "Route 3, Route 4, Rock Tunnel"
+      },
+      {
+        "game": "LGPE",
+        "method": "R",
+        "notes": "Route 24 (Only one)"
+      },
+      {
+        "game": "SwSh",
+        "method": "R",
+        "notes": "Received from Leon at his house in Postwick after becoming Champion (Gigantamax Factor)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "Hammerlocke Hills, Lake of Outrage (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "Grand Underground - Volcanic Cave, Sandsear Cave, Typhlo Cavern (after obtaining the National Pokédex)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "Savanna Biome (after boosting biodiversity in the Savanna Biome)"
+      },
+      {
+        "game": "ZA",
+        "method": "R",
+        "notes": "Vert District: Pokémon Research Lab (Received from Mable during Side Mission 22)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "Centrico Plaza: Wild Zone 20"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Fire (2 Star), Fire (3 Star), Fire (5 Star)"
+      }
+    ]
+  }
+]
