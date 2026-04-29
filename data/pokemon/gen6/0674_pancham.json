@@ -1,0 +1,40 @@
+[
+  {
+    "number": 674,
+    "name": "Pancham",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "Route 5, Friend Safari (Fighting)"
+      },
+      {
+        "game": "SM",
+        "method": "C"
+      },
+      {
+        "game": "USUM",
+        "method": "C"
+      },
+      {
+        "game": "SwSh",
+        "method": "C"
+      },
+      {
+        "game": "SwSh",
+        "method": "BD",
+        "notes": "Breed Pangoro from Dynamax Adventures"
+      },
+      {
+        "game": "ZA",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Fighting (1 Star), Fighting (4 Star), Dark (4 Star), Special (5 Star)"
+      }
+    ]
+  }
+]
