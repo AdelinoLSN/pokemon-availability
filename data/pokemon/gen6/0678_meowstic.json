@@ -1,0 +1,31 @@
+[
+  {
+    "number": 678,
+    "name": "Meowstic",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(Sw) Male; (Sh) Female"
+      },
+      {
+        "game": "SV",
+        "method": "CD"
+      },
+      {
+        "game": "ZA",
+        "method": "C"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose; Hyperspace Second-Sight Arena (Only one) (Male)"
+      }
+    ]
+  }
+]
