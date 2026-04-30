@@ -1,0 +1,73 @@
+[
+  {
+    "number": 9,
+    "name": "Blastoise",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "E",
+        "notes": "Evolve Wartortle"
+      },
+      {
+        "game": "FRLG",
+        "method": "E",
+        "notes": "Evolve Wartortle"
+      },
+      {
+        "game": "HGSS",
+        "method": "E",
+        "notes": "Evolve Wartortle"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E",
+        "notes": "Evolve Wartortle"
+      },
+      {
+        "game": "USUM",
+        "method": "E",
+        "notes": "Evolve Wartortle"
+      },
+      {
+        "game": "LGPE",
+        "method": "E",
+        "notes": "Evolve Wartortle"
+      },
+      {
+        "game": "SwSh",
+        "method": "E",
+        "notes": "Evolve Wartortle (Wild Area News)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "Workout Sea, Stepping-Stone Sea (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E",
+        "notes": "Evolve Wartortle"
+      },
+      {
+        "game": "SV",
+        "method": "ED",
+        "notes": "Evolve Wartortle"
+      },
+      {
+        "game": "ZA",
+        "method": "E",
+        "notes": "Evolve Wartortle"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "Hyperspace Lumiose - Water (4 Star), Water (5 Star)"
+      }
+    ]
+  }
+]
