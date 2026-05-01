@@ -1,0 +1,82 @@
+[
+  {
+    "number": 443,
+    "name": "Gible",
+    "form": "Sinnoh",
+    "availability": [
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Wayward Cave"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Safari Zone (Rocky Beach)"
+      },
+      {
+        "game": "BW",
+        "method": "CE",
+        "notes": "(BW) Dream World"
+      },
+      {
+        "game": "B2W2",
+        "method": "R",
+        "notes": "(B2) Received from Benga in Floccesy Town (Shiny)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 13"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Route 111"
+      },
+      {
+        "game": "SM",
+        "method": "B"
+      },
+      {
+        "game": "USUM",
+        "method": "B"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sh) Tunnel to the Top; Crown Tundra areas (Max Raid Battles)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Wayward Cave; Grand Underground (multiple caves)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Coronet Highlands (Wayward Cave, Cliffs); Alabaster Icelands (Avalanche Slopes); massive mass outbreaks; shaking ore"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Alfornada Cavern); West Province (Areas One, Two); Area Zero; Tera Raid Battles (3★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Kitakami (Oni Mountain, Crystal Pool, Wistful Fields, Paradise Barrens)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Jaune District (Wild Zone 8)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ground (3★), Dragon (3★, 4★)"
+      }
+    ]
+  }
+]
