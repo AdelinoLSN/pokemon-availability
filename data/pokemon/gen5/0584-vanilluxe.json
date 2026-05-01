@@ -1,0 +1,51 @@
+[
+  {
+    "number": 584,
+    "name": "Vanilluxe",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Giant Chasm; Dragonspiral Tower (Winter, rustling grass)"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Mount Lanakila (SOS, hail)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Route 10, Lake of Outrage; Wild Area (Wanderer); Max Raid Battles"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Crown Tundra areas (Wanderer); Max Raid Battles"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ice (4★)"
+      }
+    ]
+  }
+]
