@@ -1,0 +1,104 @@
+[
+  {
+    "number": 35,
+    "name": "Clefairy",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGBY) Mt. Moon; (RG) Celadon City (Rocket Game Corner); (B) Cerulean Caves"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Mt. Moon; (C) Routes 3, 4 (Night)"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FRLG) Mt. Moon, Celadon City (Rocket Game Corner)"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Mt. Coronet, Trophy Garden"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Mt. Moon; Safari Zone (Night) (tall grass in Meadow - default and with 3 Peak points)"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Giant Chasm"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Giant Chasm; Hidden Grotto"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Fairy)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Route 115, Meteor Falls"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Mount Hokulani (Night, SOS)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Mount Hokulani (Night, SOS)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Mt. Moon"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Giant's Cap, Motostoke Riverbank; Bridge Field, Hammerlocke Hills, Lake of Outrage, Rolling Fields (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Giant's Bed, Snowslide Slope, Tunnel to the Top; Fields of Honor, Soothing Wetlands, Forest of Focus, Insular Sea, Frostpoint Field, Frigid Sea, Ballimere Lake (Max Raid Battle); Max Lair"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Mt. Coronet, Trophy Garden"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Cobalt Coastlands; Coronet Highlands (Fabled Spring - Night); massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV DLC) Kitakami (Reveler's Road, Kitakami Hall, Infernal Pass, Oni's Maw, Crystal Pool); Tera Raid Battles (3★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Jaune District (Wild Zone 19)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fairy (2★, 4★), Special (5★)"
+      }
+    ]
+  }
+]
