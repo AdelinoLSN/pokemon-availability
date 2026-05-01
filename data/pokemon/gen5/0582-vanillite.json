@@ -1,0 +1,53 @@
+[
+  {
+    "number": 582,
+    "name": "Vanillite",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Cold Storage; Route 6, Dragonspiral Tower (Winter)"
+      },
+      {
+        "game": "B2W2",
+        "method": "B"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Frost Cavern (Horde Encounter)"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Tapu Village (SOS, hail)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Tapu Village, Mount Lanakila (SOS, hail)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Multiple Wild Area locations; Surfing areas; Max Raid Battles"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Crown Tundra areas (Frostpoint Field, Giant's Bed, Snowslide Slope, etc.)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 12); Magenta District (Wild Zone 7)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ice (3★)"
+      }
+    ]
+  }
+]
