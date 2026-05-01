@@ -1,0 +1,66 @@
+[
+  {
+    "number": 353,
+    "name": "Shuppet",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "C",
+        "notes": "(RSE) Mt. Pyre; (SE) Routes 121, 123"
+      },
+      {
+        "game": "DPPt",
+        "method": "B"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Safari Zone (Forest with 35 Forest points) "
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Route 13 (Swarm); Dream World"
+      },
+      {
+        "game": "B2W2",
+        "method": "B"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Ghost)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Routes 121, 123, Mt. Pyre"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Thrifty Megamart (Abandoned Site)"
+      },
+      {
+        "game": "BDSP",
+        "method": "B"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) East Province (Areas One, Two, Three); Tera Raid Battles (2★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Vert District (Sector 5); Bleu District (Sector 3); Magenta District (Sector 7, Wild Zone 7); Rouge District (Sector 3); Jaune District (Sectors 2, 9, Wild Zone 15 - Night)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ghost (1★, 3★)"
+      }
+    ]
+  }
+]
