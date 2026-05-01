@@ -1,0 +1,39 @@
+[
+  {
+    "number": 679,
+    "name": "Honedge",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 6"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Akala Outskirts (Island Scan - Wed)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Akala Outskirts (Island Scan - Wed)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Hammerlocke Hills, Stony Wilderness, Giant's Seat, Dusty Bowl (Max Raid Battle); (Sh) Watchtower Ruins"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Magenta District (Lysandre Labs); Rouge District (Wild Zone 4 - Night)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Steel (2★, 3★)"
+      }
+    ]
+  }
+]
