@@ -1,0 +1,104 @@
+[
+  {
+    "number": 63,
+    "name": "Abra",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGBY) Celadon City (Rocket Game Corner); (RGB) Routes 24, 25; (Y) Routes 5, 6, 7, 8"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Routes 5, 8, 24, 34, 35, Goldenrod Game Corner; (GS) Routes 6, 25; (C) Routes 7"
+      },
+      {
+        "game": "RSE",
+        "method": "C",
+        "notes": "(RSE) Granite Cave; (E) Route 116"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FRLG) Routes 24, 25, Celadon City (Rocket Game Corner)"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Routes 203, 215"
+      },
+      {
+        "game": "DPPt",
+        "method": "T",
+        "notes": "(DPPt) Trade Machop in Oreburgh City"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Routes 5, 6, 8, 24, 25, 34, 35, Goldenrod Game Corner; Safari Zone (Plains)"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Dream World; (W) White Forest"
+      },
+      {
+        "game": "B2W2",
+        "method": "B",
+        "notes": "Breed Alakazam"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 5, Friend Safari (Psychic)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Granite Cave"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Route 2, Hau'oli City"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Route 2, Hau'oli City"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Routes 5, 6, 7, 8"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Fields of Honor; Soothing Wetlands, Challenge Beach (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 203, 215"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Obsidian Fieldlands (Windswept Run, Sandgem Flats); Alabaster Icelands (Lake Acuity); massive mass outbreaks"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Vert District (Sector 8); Bleu District (Wild Zone 5); Magenta District (Sectors 6, 7); Rouge District (Sectors 6, 8); Jaune District (Sector 5)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Psychic (1★, 3★)"
+      }
+    ]
+  }
+]
