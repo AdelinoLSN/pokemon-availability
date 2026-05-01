@@ -1,0 +1,86 @@
+[
+  {
+    "number": 65,
+    "name": "Alakazam",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "E"
+      },
+      {
+        "game": "GSC",
+        "method": "E"
+      },
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "FRLG",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "T",
+        "notes": "(B2W2) Trade Hippowdon in Accumula Town"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "LGPE",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Loop Lagoon, Insular Sea (Wanderer); Soothing Wetlands, Challenge Beach (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Obsidian Fieldlands (Sandgem Flats); Cobalt Coastlands (Space-time distortions); Alabaster Icelands (Lake Acuity); massive mass outbreaks"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Psychic (4★)"
+      }
+    ]
+  }
+]
