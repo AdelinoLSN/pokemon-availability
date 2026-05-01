@@ -1,0 +1,89 @@
+[
+  {
+    "number": 173,
+    "name": "Cleffa",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(C) Route 34 (Odd Egg)"
+      },
+      {
+        "game": "FRLG",
+        "method": "B"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Mt. Coronet, Trophy Garden"
+      },
+      {
+        "game": "HGSS",
+        "method": "B"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(Dream World) Icy Cave"
+      },
+      {
+        "game": "B2W2",
+        "method": "B"
+      },
+      {
+        "game": "XY",
+        "method": "B"
+      },
+      {
+        "game": "ORAS",
+        "method": "B"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Mount Hokulani (Night)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Mount Hokulani (Night)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Hammerlocke Hills, Rolling Fields (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Fields of Honor, Soothing Wetlands, Forest of Focus, Insular Sea, Frostpoint Field, Giant's Bed, Snowslide Slope, Frigid Sea, Ballimere Lake (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Mt. Coronet, Trophy Garden"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Cobalt Coastlands; Coronet Highlands (Fabled Spring - Night); massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV DLC) Kitakami (Reveler's Road, Kitakami Hall, Oni Mountain, Infernal Pass, Crystal Pool); Tera Raid Battles (1★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Vert District (Sector 3); Bleu District (Sector 4); Magenta District (Sector 1); Rouge District (Sector 5); Jaune District (Sector 11, Wild Zone 19)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fairy (2★)"
+      }
+    ]
+  }
+]
