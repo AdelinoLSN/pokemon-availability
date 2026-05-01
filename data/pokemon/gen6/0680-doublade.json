@@ -1,0 +1,41 @@
+[
+  {
+    "number": 680,
+    "name": "Doublade",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Lake of Outrage, Giant's Cap, Watchtower Ruins (Max Raid Battle); (Sh) Stony Wilderness"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Max Lair (Dynamax Adventure)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Magenta District (Lysandre Labs)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Steel (3★, 4★)"
+      }
+    ]
+  }
+]
