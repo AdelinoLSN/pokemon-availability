@@ -1,0 +1,79 @@
+[
+  {
+    "number": 444,
+    "name": "Gabite",
+    "form": "Sinnoh",
+    "availability": [
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(Pt) Victory Road"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Dragon)"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Haina Desert (SOS)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Haina Desert (SOS)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sh DLC) Crown Tundra areas (Max Raid Battles)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Grand Underground (multiple caves)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Coronet Highlands (Clamberclaw Cliffs); Alabaster Icelands (Avalanche Slopes); mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Area Six, Alfornada Cavern); West Province (Area Two); North Province (Area Two, Dalizapa Passage, Glaseado Mountain); Area Zero; Tera Raid Battles (4★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Kitakami (Oni Mountain, Crystal Pool)"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Dragon (4★)"
+      }
+    ]
+  }
+]
