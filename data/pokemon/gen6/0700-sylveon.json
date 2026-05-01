@@ -1,0 +1,55 @@
+[
+  {
+    "number": 700,
+    "name": "Sylveon",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Lake of Outrage (Wanderer, Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Giant's Bed (Wanderer); Ballimere Lake (Max Raid Battle)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Obsidian Fieldlands; Coronet Highlands (space-time distortions)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Area Six); West Province (Area Three); North Province (Area Three - Fairy Tera); Tera Raid Battles (6★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Normal (5★), Fairy (4★)"
+      }
+    ]
+  }
+]
