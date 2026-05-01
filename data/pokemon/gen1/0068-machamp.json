@@ -1,0 +1,95 @@
+[
+  {
+    "number": 68,
+    "name": "Machamp",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "T",
+        "notes": "(Y) Trade Cubone for Machoke (auto-evolves)"
+      },
+      {
+        "game": "RGBY",
+        "method": "E"
+      },
+      {
+        "game": "GSC",
+        "method": "E"
+      },
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "FRLG",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "LGPE",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Giant's Mirror (Wanderer); Max Raid Battles"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Crown Tundra areas (Max Raid Battles)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Coronet Highlands; Alabaster Icelands (mass outbreaks)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fighting (4★), Special (5★)"
+      }
+    ]
+  }
+]
