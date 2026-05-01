@@ -1,0 +1,82 @@
+[
+  {
+    "number": 281,
+    "name": "Kirlia",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DP) Routes 203, 204 (Poké Radar); (Pt) Route 212; Route 209 (Poké Radar)"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Fairy)"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Rolling Fields (Wanderer); Bridge Field, Lake of Outrage, Motostoke Riverbank, Stony Wilderness, Watchtower Ruins (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Fields of Honor; Soothing Wetlands (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 203, 204 (Poké Radar); Grand Underground (Dazzling Cave, Stargleam Cavern)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Crimson Mirelands (Shrouded Ruins); Alabaster Icelands (Heart's Crag - Day, Lake Acuity, Snowpoint Temple); massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Cortondo); East Province (Areas Two, Three - Fire Tera); West Province (Porto Marinada); North Province (Dalizapa Passage, Montenevera); Tera Raid Battles (3★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Kitakami (Oni Mountain, Wistful Fields, Paradise Barrens, Kitakami Wilds, Timeless Woods)"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fighting (4★), Psychic (3★, 4★), Fairy (4★), Special (5★)"
+      }
+    ]
+  }
+]
