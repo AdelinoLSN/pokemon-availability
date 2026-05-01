@@ -1,0 +1,71 @@
+[
+  {
+    "number": 470,
+    "name": "Leafeon",
+    "form": "Sinnoh",
+    "availability": [
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Lake of Outrage (Wanderer); Giant's Mirror (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Giant's Bed (Wanderer); Ballimere Lake (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Obsidian Fieldlands (space-time distortions)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) West Province (Area Three); North Province (Socarrat Trail); South Province (Area Four - Grass Tera); Tera Raid Battles (6★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Normal (5★), Grass (4★)"
+      }
+    ]
+  }
+]
