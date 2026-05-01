@@ -1,0 +1,69 @@
+[
+  {
+    "number": 445,
+    "name": "Garchomp",
+    "form": "Sinnoh",
+    "availability": [
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sh DLC) Tunnel to the Top, Path to the Peak (Wanderer); Crown Tundra areas (Max Raid Battles)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Coronet Highlands (mass outbreaks); Alabaster Icelands (Avalanche Slopes)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) West Province (Area Two - Water Tera); Area Zero; Tera Raid Battles (5★, 6★)"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "ED"
+      }
+    ]
+  }
+]
