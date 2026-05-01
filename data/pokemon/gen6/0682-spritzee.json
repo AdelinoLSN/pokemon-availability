@@ -1,0 +1,29 @@
+[
+  {
+    "number": 682,
+    "name": "Spritzee",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Fairy); (Y) Route 7"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(Sh) Route 5, Glimwood Tangle, Giant's Mirror, Stony Wilderness; Rolling Fields, Bridge Field, Hammerlocke Hills, Lake of Outrage (Max Raid Battle)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (South Boulevard, Sector 5); Magenta District (Sectors 1, 6); Rouge District (Sectors 1, 2, 4, 6, 7); Jaune District (Saison Canalside)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fairy (2★, 3★)"
+      }
+    ]
+  }
+]
