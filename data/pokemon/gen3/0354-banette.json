@@ -1,0 +1,67 @@
+[
+  {
+    "number": 354,
+    "name": "Banette",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "C",
+        "notes": "(SE) Sky Pillar"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Routes 225, 226; (DP) Routes 227, Stark Mountain (Night)"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Safari Zone (tall grass in Marshland with 49 Peak points) "
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Strange House, Victory Road"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Pokémon Village (trash cans - Thu)"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "Poké Pelago (Poni Island)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 225, 226, 227, Stark Mountain (Night); Grand Underground (Dazzling Cave, Stargleam Cavern)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Alfornada Cavern); North Province (Glaseado Mountain); Tera Raid Battles (4★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Jaune District (Wild Zone 15 - Night)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ghost (3★)"
+      }
+    ]
+  }
+]
