@@ -1,0 +1,99 @@
+[
+  {
+    "number": 280,
+    "name": "Ralts",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "C",
+        "notes": "(RSE) Route 102"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DP) Routes 203, 204 (Poké Radar); (Pt) Routes 208, 209, 212"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Route 34 (Swarm)"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Dream World; (W) White Forest"
+      },
+      {
+        "game": "B2W2",
+        "method": "T",
+        "notes": "(B2W2) Trade with Curtis or Yancy in Nimbasa City"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Dream Radar"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 4"
+      },
+      {
+        "game": "XY",
+        "method": "T",
+        "notes": "Trade in Lumiose City after entering the Hall of Fame"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Route 102"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Route 6 (Island Scan - Sun)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Dappled Grove, North Lake Miloch, Rolling Fields, South Lake Miloch, Watchtower Ruins, West Lake Axewell; Bridge Field, Hammerlocke Hills, Lake of Outrage, Motostoke Riverbank, Stony Wilderness (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Fields of Honor"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 203, 204 (Poké Radar); Grand Underground (Fountainspring Cave, Dazzling Cave, Stargleam Cavern)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Crimson Mirelands (Gapejaw Bog, Shrouded Ruins); Alabaster Icelands (Heart's Crag - Day, Lake Acuity, Snowpoint Temple); massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Area One, Los Platos); Tera Raid Battles (1★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Kitakami (Reveler's Road, Kitakami Hall, Mossfell Confluence, Oni Mountain, Wistful Fields, Paradise Barrens, Kitakami Wilds, Timeless Woods)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Vert District (Sector 4); Bleu District (Sector 7); Magenta District (Sector 7); Rouge District (Sector 2)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Psychic (3★)"
+      }
+    ]
+  }
+]
