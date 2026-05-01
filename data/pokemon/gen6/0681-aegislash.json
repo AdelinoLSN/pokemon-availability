@@ -1,0 +1,36 @@
+[
+  {
+    "number": 681,
+    "name": "Aegislash",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Watchtower Ruins (Max Raid Battle)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Steel (4★)"
+      }
+    ]
+  }
+]
