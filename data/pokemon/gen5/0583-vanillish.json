@@ -1,0 +1,52 @@
+[
+  {
+    "number": 583,
+    "name": "Vanillish",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Dragonspiral Tower (Winter, dark grass);"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Giant Chasm; Dragonspiral Tower (Winter)"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Mount Lanakila (SOS, hail)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Mount Lanakila (SOS, hail)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Routes 8, 10; Axew's Eye, Dusty Bowl; Wanderers; Max Raid Battles"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Crown Tundra areas; Surfing locations; Max Lair"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ice (3★, 4★)"
+      }
+    ]
+  }
+]
