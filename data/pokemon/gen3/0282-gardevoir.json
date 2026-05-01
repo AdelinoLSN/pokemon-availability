@@ -1,0 +1,80 @@
+[
+  {
+    "number": 282,
+    "name": "Gardevoir",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Dusty Bowl, Lake of Outrage; Bridge Field, Hammerlocke Hills, Motostoke Riverbank, Rolling Fields, Stony Wilderness, Watchtower Ruins (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Training Lowlands (Wanderer); Fields of Honor, Soothing Wetlands (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Alabaster Icelands (Heart's Crag - Day, Lake Acuity); massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) North Province (Glaseado Mountain); Tera Raid Battles (5★, 6★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Kitakami Wilds, Timeless Woods"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Psychic (4★), Fairy (4★), Special (5★)"
+      }
+    ]
+  }
+]
