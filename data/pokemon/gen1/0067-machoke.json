@@ -1,0 +1,101 @@
+[
+  {
+    "number": 67,
+    "name": "Machoke",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGBY) Victory Road"
+      },
+      {
+        "game": "RGBY",
+        "method": "T",
+        "notes": "(Y) Trade Cubone (Underground Path)"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Rock Tunnel, Mt. Mortar; (C) Mt. Silver Cave"
+      },
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FRLG) Cerulean Cave, Mt. Ember, Victory Road"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Routes 210, 211, 225, 226, Mt. Coronest; (DP) Routes 216, 217, Stark Mountain, Victory Road, Acuity Lakefront;"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Cliff Cave, Mt. Mortar, Cerulean Cave, Rock Tunnel; Safari Zone (Wasteland)"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Fighting)"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Vast Poni Canyon"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Vast Poni Canyon"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Victory Road"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Wild Area locations; Max Raid Battles"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Max Lair"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 210, 211, 216, 217, 225, 226; Mt. Coronet, Victory Road, Acuity Lakefront; Grand Underground"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Multiple regions"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 12)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fighting (3★, 4★, 5★)"
+      }
+    ]
+  }
+]
