@@ -1,0 +1,104 @@
+[
+  {
+    "number": 66,
+    "name": "Machop",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGBY) Rock Tunnel; (RGB) Victory Road; (Y) Route 10"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Rock Tunnel, Mt. Mortar"
+      },
+      {
+        "game": "GSC",
+        "method": "T",
+        "notes": "(GS) Trade Drowzee in Goldenrod Department Store; (C) Trade Abra in Goldenrod Department Store"
+      },
+      {
+        "game": "RSE",
+        "method": "C",
+        "notes": "(RSE) Fiery Path, Jagged Pass; (RB) Route 112"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FRLG) Mt. Ember, Rock Tunnel, Victory Road"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Routes 207, 210, Mt. Coronet; (DP) Route 208; (Pt) Routes 206, 211"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Cliff Cave, Rock Tunnel, Mt. Mortar; Safari Zone (Wasteland); Trade in Goldenrod Department Store"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(W) White Forest; Dream World"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Glittering Cave"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Route 112, Fiery Path, Jagged Pass"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Ten Carat Hill (Farthest Hollow)"
+      },
+      {
+        "game": "SM",
+        "method": "T",
+        "notes": "(SM) Trade Spearow (Route 2)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Ten Carat Hill (Farthest Hollow)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Rock Tunnel, Victory Road"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Route 3; Wild Area locations; Max Raid Battles"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 207, 208, 210, Mt. Coronet; Grand Underground (multiple caves)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Multiple regions (Obsidian Fieldlands, Cobalt Coastlands, Coronet Highlands, Alabaster Icelands)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 12); Jaune District (Wild Zone 8)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fighting (1★, 3★)"
+      }
+    ]
+  }
+]
