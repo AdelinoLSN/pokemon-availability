@@ -1,0 +1,93 @@
+[
+  {
+    "number": 172,
+    "name": "Pichu",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(C) Route 34 (Odd Egg)"
+      },
+      {
+        "game": "RSE",
+        "method": "B"
+      },
+      {
+        "game": "FRLG",
+        "method": "B"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Trophy Garden"
+      },
+      {
+        "game": "HGSS",
+        "method": "B"
+      },
+      {
+        "game": "B2W2",
+        "method": "B"
+      },
+      {
+        "game": "XY",
+        "method": "B"
+      },
+      {
+        "game": "ORAS",
+        "method": "B"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Route 1, Hau'oli City"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Route 1"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Giant's Cap, Hammerlocke Hills, Motostoke Riverbank (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Forest of Focus (Wanderer); Fields of Honor, Forest of Focus, Challenge Beach, Honeycalm Seas (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Trophy Garden"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Obsidian Fieldlands (Aspiration Hill, Floaro Gardens, Nature's Pantry - Day); Crimson Mirelands (Golden Lowlands); massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Areas One, Two, Los Platos); Tera Raid Battles (1★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Kitakami (Kitakami Road, Apple Hills, Loyalty Plaza, Reveler's Road, Oni Mountain, Oni's Maw, Infernal Pass, Crystal Pool, Wistful Fields)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Vert District (Wild Zone 1)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Electric (2★)"
+      }
+    ]
+  }
+]
