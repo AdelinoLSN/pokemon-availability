@@ -1,0 +1,92 @@
+[
+  {
+    "number": 134,
+    "name": "Vaporeon",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "E"
+      },
+      {
+        "game": "GSC",
+        "method": "E"
+      },
+      {
+        "game": "FRLG",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "CE",
+        "notes": "(BW) Dream World (Global Link Event)"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "LGPE",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Lake of Outrage (Wanderer); Giant's Mirror (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Giant's Bed (Wanderer); Ballimere Lake (Max Raid Battle); Max Lair"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Cobalt Coastlands (space-time distortions)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Area Six); East Province (Tagtree Thicket); North Province (Areas Two, Three, Casseroya Lake, Glaseado Mountain); Water Tera (Casseroya Lake); Tera Raid Battles (6★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Normal (5★), Water (4★)"
+      }
+    ]
+  }
+]
