@@ -1,0 +1,159 @@
+[
+  {
+    "number": 133,
+    "name": "Eevee",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "R",
+        "notes": "(RGBY) Celadon Mansion"
+      },
+      {
+        "game": "GSC",
+        "method": "R",
+        "notes": "(GSC) Received from Bill in Goldenrod City"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GS) Celadon Game Corner"
+      },
+      {
+        "game": "FRLG",
+        "method": "R",
+        "notes": "(FRLG) Celadon Mansion"
+      },
+      {
+        "game": "DPPt",
+        "method": "R",
+        "notes": "(DPPt) Received from Bebe in Hearthome City"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Trophy Garden"
+      },
+      {
+        "game": "HGSS",
+        "method": "R",
+        "notes": "(HGSS) Received from Bill in Goldenrod City"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Celadon Game Corner"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Castelia Park"
+      },
+      {
+        "game": "B2W2",
+        "method": "R",
+        "notes": "(B2W2) Received from Amanita in Castelia City"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 10, Friend Safari (Normal)"
+      },
+      {
+        "game": "XY",
+        "method": "T",
+        "notes": "(XY) In-game trades in multiple cities"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Route 116"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Routes 4, 6"
+      },
+      {
+        "game": "SM",
+        "method": "R",
+        "notes": "(SM) Egg from Pokémon Nursery (Paniola Ranch)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Routes 4, 6"
+      },
+      {
+        "game": "USUM",
+        "method": "R",
+        "notes": "(USUM) Egg from Pokémon Nursery (Paniola Ranch)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Route 17"
+      },
+      {
+        "game": "LGPE",
+        "method": "R",
+        "notes": "(LGE) Starter Eevee from Professor Oak"
+      },
+      {
+        "game": "SwSh",
+        "method": "R",
+        "notes": "(SwSh) Meetup Spot (Gigantamax)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Route 4; Bridge Field, East Lake Axewell, Motostoke Riverbank, Rolling Fields (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Giant's Bed, Ballimere Lake; Frostpoint Field (Wanderer); Ballimere Lake (Max Raid Battle)"
+      },
+      {
+        "game": "BDSP",
+        "method": "R",
+        "notes": "(BDSP) Received from Bebe in Hearthome City"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Trophy Garden"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Multiple regions (space-time distortions); Cobalt Coastlands (Crossing Slope)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Areas Two, Five); West Province (Area Three); Tera Raid Battles (3★, 5★)"
+      },
+      {
+        "game": "SV",
+        "method": "TD",
+        "notes": "(SV DLC) Trade with Penny (League Club Room)"
+      },
+            {
+        "game": "SV",
+        "method": "CE",
+        "notes": "Poké Portal News (2022) (Eevee Spotlight)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Vert District (Sectors 8, 9); Bleu District (Sector 7); Magenta District (Sectors 7, 9); Rouge District (Sector 8); Jaune District (Sector 7, Wild Zone 19)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - multiple types (2★–5★)"
+      }
+    ]
+  }
+]
