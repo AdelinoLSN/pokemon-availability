@@ -1,0 +1,93 @@
+[
+  {
+    "number": 64,
+    "name": "Kadabra",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGB) Cerulean Cave; (Y) Route 8"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Route 8"
+      },
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FRLG) Cerulean Cave"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Route 215; (DP) Victory Road"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Route 8, Cerulean Cave"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Poké Pelago"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Routes 7, 8"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Fields of Honor, Soothing Wetlands (Wanderer); Soothing Wetlands, Challenge Beach (Max Raid Battle); Max Lair (Dynamax Adventure)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Route 215, Victory Road; Grand Underground (Dazzling Cave, Stargleam Cavern)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Obsidian Fieldlands (Sandgem Flats); Cobalt Coastlands (Space-time distortions); Alabaster Icelands (Lake Acuity); massive mass outbreaks"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Magenta District (Wild Zone 9)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Psychic (3★, 4★)"
+      }
+    ]
+  }
+]
