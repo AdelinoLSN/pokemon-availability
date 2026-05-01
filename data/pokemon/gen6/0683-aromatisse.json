@@ -1,0 +1,27 @@
+[
+  {
+    "number": 683,
+    "name": "Aromatisse",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(Sh) Rolling Fields, Bridge Field, Hammerlocke Hills, Lake of Outrage (Max Raid Battle)"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fairy (3★)"
+      }
+    ]
+  }
+]
