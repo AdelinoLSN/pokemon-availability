@@ -1,0 +1,99 @@
+[
+  {
+    "number": 36,
+    "name": "Clefable",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "E"
+      },
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(B) Celadon City (Rocket Game Corner)"
+      },
+      {
+        "game": "GSC",
+        "method": "E"
+      },
+      {
+        "game": "FRLG",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Giant Chasm (rustling grass)"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Giant Chasm (rustling grass)"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Mt. Moon"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Motostoke Riverbank (Wanderer); Bridge Field, Hammerlocke Hills, Lake of Outrage, Rolling Fields (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Giant's Bed, Snowslide Slope, Tunnel to the Top (Wanderer); Fields of Honor, Soothing Wetlands, Forest of Focus, Insular Sea, Frostpoint Field, Frigid Sea, Ballimere Lake (Max Raid Battle); Max Lair"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Coronet Highlands (Fabled Spring - Night); massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV DLC) Tera Raid Battles (4★, 6★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fairy (4★), Special (5★)"
+      }
+    ]
+  }
+]
