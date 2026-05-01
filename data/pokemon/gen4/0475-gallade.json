@@ -1,0 +1,76 @@
+[
+  {
+    "number": 475,
+    "name": "Gallade",
+    "form": "Sinnoh",
+    "availability": [
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(Sw) Dusty Bowl, North Lake Miloch, Stony Wilderness; (Sh) Bridge Field; Rolling Fields (Max Raid Battle)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Challenge Road"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Alabaster Icelands (Snowpoint Temple); massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Area Six, Alfornada Cavern); North Province (Area One, Dalizapa Passage, Glaseado Mountain); Tera Raid Battles (5★, 6★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Fellhorn Gorge, Kitakami Wilds, Timeless Woods"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20); Bleu District (Wild Zone 5 - one, Main Mission 40)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fighting (4★), Psychic (4★)"
+      }
+    ]
+  }
+]
