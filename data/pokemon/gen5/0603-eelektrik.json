@@ -1,0 +1,49 @@
+[
+  {
+    "number": 603,
+    "name": "Eelektrik",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Seaside Cave"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South, West, North Paldean Sea; Tera Raid Battles (4★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Kitakami (Wilds, Timeless Woods); Terarium biomes (Savanna, Canyon, Chargestone Cavern, Polar)"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Electric (3★, 4★)"
+      }
+    ]
+  }
+]
