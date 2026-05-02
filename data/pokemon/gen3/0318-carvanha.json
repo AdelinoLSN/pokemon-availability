@@ -1,0 +1,73 @@
+[
+  {
+    "number": 318,
+    "name": "Carvanha",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "C",
+        "notes": "(RSE) Routes 118, 119 (Fishing)"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Great Marsh (Fishing)"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(PW) Warm Beach"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Village Bridge (Fishing); Dream World"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Village Bridge (Fishing)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 22 (Fishing)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Routes 118, 119 (Fishing)"
+      },
+      {
+        "game": "SM",
+        "method": "B"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Poni Breaker Coast (Fishing)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Training Lowlands (Fishing)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Great Marsh (Fishing); Grand Underground (multiple caves)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 10)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Water (2★, 3★), Dark (3★)"
+      }
+    ]
+  }
+]
