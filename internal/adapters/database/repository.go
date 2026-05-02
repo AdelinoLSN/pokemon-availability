@@ -3,6 +3,7 @@ package database
 import (
   "database/sql"
   "fmt"
+  "strings"
 
   "pokemon-availability/internal/domain"
 )
@@ -48,7 +49,7 @@ func InsertPokemon(db *sql.DB, pokemon []domain.Pokemon) error {
 
   const queryPokemon = `
     WITH inserted AS (
-      INSERT INTO pokemon (number, name, form) 
+      INSERT INTO pokemon (number, name, form)
       VALUES ($1, $2, $3)
       ON CONFLICT (number, form) DO NOTHING
       RETURNING id
@@ -83,4 +84,47 @@ func InsertPokemon(db *sql.DB, pokemon []domain.Pokemon) error {
   }
 
   return nil
+}
+
+type PokemonCSVRow struct {
+	Number  int
+	Name    string
+	Form    string
+	Methods string
+	Notes   string
+}
+
+func GetPokemonForGame(db *sql.DB, gameAbbreviation string) ([]PokemonCSVRow, error) {
+	query := `
+		SELECT
+			number,
+			name,
+			COALESCE(form, '') AS form,
+			STRING_AGG(method_key, '|') AS methods,
+			STRING_AGG(COALESCE(note, ''), '|') AS notes
+		FROM pokemon_full_view
+		WHERE game_abbreviation = $1
+		GROUP BY number, name, form
+		ORDER BY number, form;
+	`
+
+	rows, err := db.Query(query, gameAbbreviation)
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	var results []PokemonCSVRow
+	for rows.Next() {
+		var row PokemonCSVRow
+		if err := rows.Scan(&row.Number, &row.Name, &row.Form, &row.Methods, &row.Notes); err != nil {
+			return nil, err
+		}
+
+		row.Notes = strings.ReplaceAll(row.Notes, ",", ";")
+
+		results = append(results, row)
+	}
+
+	return results, rows.Err()
 }
