@@ -1,0 +1,82 @@
+[
+  {
+    "number": 319,
+    "name": "Sharpedo",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "C",
+        "notes": "(RSE) Multiple sea routes, Mossdeep City, Pacifidlog Town (Fishing)"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DP) Routes 213, 222 (Fishing)"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Village Bridge (Fishing)"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Village Bridge (Fishing)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 22 (Fishing)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Routes 118, 119 (Fishing)"
+      },
+      {
+        "game": "ORAS",
+        "method": "R",
+        "notes": "(ORAS) Received from Team Aqua Grunt (Battle Resort)"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Poni Breaker Coast"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Poni Breaker Coast (SOS)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Seas (Workout, Honeycalm, Insular, Stepping-Stone); Training Lowlands (Fishing); Max Lair"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 213, 222 (Fishing)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 10)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Water (3★), Dark (3★)"
+      }
+    ]
+  }
+]
