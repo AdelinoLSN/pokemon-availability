@@ -1,0 +1,52 @@
+[
+  {
+    "number": 602,
+    "name": "Tynamo",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Chargestone Cave"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Chargestone Cave, Seaside Cave"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Mirage Caves"
+      },
+      {
+        "game": "SM",
+        "method": "B"
+      },
+      {
+        "game": "USUM",
+        "method": "B"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) West Province (West Paldean Sea); North Province (North Paldean Sea); Tera Raid Battles (1★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Kitakami (Oni Mountain, Chilling Waterhead); Terarium biomes (Savanna, Canyon, Chargestone Cavern, Polar)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 10)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Electric (2★, 3★)"
+      }
+    ]
+  }
+]
