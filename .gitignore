@@ -1,3 +1,6 @@
+# Application
+.outputs
+
 # Go
 *.exe
 *.exe~

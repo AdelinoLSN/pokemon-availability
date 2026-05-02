@@ -11,7 +11,7 @@ RUN go mod download
 COPY . .
 
 # FORÇAMOS o output (-o) para a raiz do container de build como 'pokemon-app'
-RUN CGO_ENABLED=0 GOOS=linux go build -o /pokemon-app ./app/main.go
+RUN CGO_ENABLED=0 GOOS=linux go build -o /pokemon-app ./app
 
 # --- Estágio Final (Runner) ---
 FROM alpine:3.20
