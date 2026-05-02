@@ -1,0 +1,51 @@
+[
+  {
+    "number": 604,
+    "name": "Eelektross",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Poni Grove (Island Scan - Sun)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Poni Grove (Island Scan - Sun)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) North Province (Area One - Dragon Tera); Tera Raid Battles (5★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Terarium biomes (Canyon, Chargestone Cavern, Polar)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Electric (4★)"
+      }
+    ]
+  }
+]
