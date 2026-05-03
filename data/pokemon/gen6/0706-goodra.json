@@ -1,0 +1,70 @@
+[
+  {
+    "number": 706,
+    "name": "Goodra",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(Sh) Axew's Eye, Rolling Fields (Max Raid)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sh DLC) Loop Lagoon (Max Raid)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) Tera Raid Battles (5★, 6★)"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "ED"
+      }
+    ]
+  },
+  {
+    "number": 706,
+    "name": "Goodra",
+    "form": "Hisui",
+    "availability": [
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Obsidian Fieldlands (Lake Verity - one); Crimson Mirelands; Coronet Highlands; massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Dragon (5★)"
+      }
+    ]
+  }
+]
