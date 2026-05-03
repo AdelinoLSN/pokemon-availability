@@ -33,4 +33,6 @@ func main() {
 	database.InsertPokemon(db, pokemon)
 
 	log.Println("ETL finished with success")
+
+  ExportToCSV(db, games)
 }

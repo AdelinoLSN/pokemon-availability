@@ -7,6 +7,14 @@ import (
   "pokemon-availability/internal/domain"
 )
 
+type PokemonFullViewRow struct {
+  Number int
+  Name   string
+  Form   string
+  Method string
+  Note   string
+}
+
 func InsertMethods(db *sql.DB, methods []domain.Method) error {
   const query = `
     INSERT INTO methods (key, description)
@@ -85,4 +93,35 @@ func InsertPokemon(db *sql.DB, pokemon []domain.Pokemon) error {
   }
 
   return nil
+}
+
+func GetPokemonFullViewForGame(db *sql.DB, gameAbbreviation string) ([]PokemonFullViewRow, error) {
+  query := `
+    SELECT
+      number,
+      name,
+      form,
+      method_key,
+      COALESCE(note, '-') AS note
+    FROM pokemon_full_view
+    WHERE game_abbreviation = $1;
+  `
+
+  rows, err := db.Query(query, gameAbbreviation)
+  if err != nil {
+    return nil, err
+  }
+  defer rows.Close()
+
+  var results []PokemonFullViewRow
+  for rows.Next() {
+    var row PokemonFullViewRow
+    if err := rows.Scan(&row.Number, &row.Name, &row.Form, &row.Method, &row.Note); err != nil {
+      return nil, err
+    }
+
+    results = append(results, row)
+  }
+
+  return results, rows.Err()
 }
