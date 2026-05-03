@@ -1,0 +1,89 @@
+[
+  {
+    "number": 148,
+    "name": "Dragonair",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(Y) Safari Zone (Fishing); (B) Celadon Game Corner"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Route 45, Dragon's Den (Fishing)"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FRLG) Safari Zone (Fishing)"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Mt. Coronet (Fishing)"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Dragon's Den (Fishing); Safari Zone (Swamp)"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Dragonspiral Tower (Fishing)"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Dragonspiral Tower (Fishing)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 21 (Fishing); Friend Safari (Dragon)"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Poni Gauntlet, Meadow, Vast Canyon (SOS)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Poni Gauntlet, Meadow (SOS)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Route 10 (Sea Skim)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Ballimere Lake (Wanderer); Max Lair"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Mt. Coronet (Fishing)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) North Province (Casseroya Lake); South Province (Area Six - Electric Tera); Tera Raid Battles (4★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Multiple districts (Wild Zones)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Dragon (4★)"
+      }
+    ]
+  }
+]
