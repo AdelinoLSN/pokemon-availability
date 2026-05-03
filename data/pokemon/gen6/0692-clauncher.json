@@ -1,0 +1,43 @@
+[
+  {
+    "number": 692,
+    "name": "Clauncher",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(X) Route 8, Ambrette Town, Cyllage City (Fishing)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(AS) Routes 105–109 (hidden Pokémon)"
+      },
+      {
+        "game": "USUM",
+        "method": "B"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sw DLC) Seas (Workout, Stepping-Stone, Insular, Honeycalm)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(V) All Paldean Seas; Tera Raid Battles (2★); (S) Union Circle"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Jaune District (Wild Zone 11)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Water (2★, 3★)"
+      }
+    ]
+  }
+]
