@@ -1,0 +1,43 @@
+[
+  {
+    "number": 693,
+    "name": "Clawitzer",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(X) Route 8, Ambrette Town, Cyllage City (Fishing)"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(US) Poni Breaker Coast (Ambush)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sw DLC) Seas (Workout, Stepping-Stone, Insular, Honeycalm)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(V) South, North Paldean Sea; Tera Raid Battles (5★, 6★); (S) Union Circle"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Jaune District (Wild Zone 11)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Water (3★)"
+      }
+    ]
+  }
+]
