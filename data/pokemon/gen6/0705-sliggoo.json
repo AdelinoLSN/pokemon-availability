@@ -1,0 +1,76 @@
+[
+  {
+    "number": 705,
+    "name": "Sliggoo",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 19; Friend Safari (Dragon)"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Exeggutor Island (SOS - rain)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Exeggutor Island (SOS - rain)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(Sh) Lake of Outrage; Axew's Eye, Rolling Fields (Max Raid)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sh DLC) Loop Lagoon (Max Raid)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) West Province (Area Three); North Province (Casseroya Lake); South Province (Area Four - Poison Tera); Tera Raid Battles (4★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Timeless Woods"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Multiple districts (Wild Zones)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Dragon (4★)"
+      }
+    ]
+  },
+  {
+    "number": 705,
+    "name": "Sliggoo",
+    "form": "Hisui",
+    "availability": [
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Crimson Mirelands (Holm of Trials, Ursa's Ring); Coronet Highlands (Ancient Quarry); massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Pokémon Portal News (2020)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Dragon (5★)"
+      }
+    ]
+  }
+]
