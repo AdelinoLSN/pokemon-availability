@@ -1,0 +1,49 @@
+[
+  {
+    "number": 530,
+    "name": "Excadrill",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Challenger's Cave, Victory Road, Giant Chasm (Dust cloud)"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Multiple caves (Clay Tunnel, Twist Mountain, etc.) (Dust cloud)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Steel)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Mirage Caves"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Giant's Mirror, Lake of Outrage; Max Raid Battles"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Chargestone Cavern; Terarium biomes (Canyon, Polar); Tera Raid Battles (5★, 6★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Magenta District (Wild Zone 14)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ground (4★), Steel (4★)"
+      }
+    ]
+  }
+]
