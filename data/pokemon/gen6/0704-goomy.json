@@ -1,0 +1,59 @@
+[
+  {
+    "number": 704,
+    "name": "Goomy",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 14"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Route 17, Lush Jungle (SOS - rain)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Route 17, Lush Jungle (SOS - rain)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(Sh) Lake of Outrage; Axew's Eye, Rolling Fields (Max Raid)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sh DLC) Soothing Wetlands, Forest of Focus; Loop Lagoon (Max Raid)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Crimson Mirelands (Holm of Trials, Ursa's Ring); Coronet Highlands (Ancient Quarry); massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) Multiple provinces; Tera Raid Battles (3★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Kitakami (Fellhorn Gorge, Oni Mountain, Chilling Waterhead, Timeless Woods)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Multiple districts (Wild Zones)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Dragon (3★, 4★)"
+      }
+    ]
+  }
+]
