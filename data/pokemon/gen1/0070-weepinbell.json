@@ -1,0 +1,72 @@
+[
+  {
+    "number": 70,
+    "name": "Weepinbell",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(GY) Routes 12–15; (Y) Cerulean Cave"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Routes 44; (GS) Routes 24, 25"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(LG) Routes 12–15; Sevii Islands locations"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Routes 224, 230; (DP) Route 229"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Routes 24, 25, 44; Safari Zone (Swamp); (PW) Treehouse"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Routes 14, 16, 19 (Flowers); Horde"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGE) Routes 12–15, 21"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 224, 229, 230; Grand Underground (multiple caves)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Mossfell Confluence; Tera Raid Battles (3★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Rouge District (Wild Zone 13)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Poison (3★, 4★), Grass (3★, 4★), Special (5★)"
+      }
+    ]
+  }
+]
