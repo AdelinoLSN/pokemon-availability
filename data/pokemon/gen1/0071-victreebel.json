@@ -1,0 +1,65 @@
+[
+  {
+    "number": 71,
+    "name": "Victreebel",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "E"
+      },
+      {
+        "game": "GSC",
+        "method": "E"
+      },
+      {
+        "game": "FRLG",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGE) Route 21"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Tera Raid Battles (5★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Poison (4★), Grass (4★), Special (5★)"
+      }
+    ]
+  }
+]
