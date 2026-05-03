@@ -1,0 +1,47 @@
+[
+  {
+    "number": 529,
+    "name": "Drilbur",
+    "form": "Unova",
+    "availability": [
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Wellspring Cave, Chargestone Cave, Mistralton Cave, Twist Mountain (Dust cloud); Dream World"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Relic Passage, Chargestone Cave, Mistralton Cave (Dust cloud)"
+      },
+      {
+        "game": "XY",
+        "method": "B"
+      },
+      {
+        "game": "ORAS",
+        "method": "B"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Galar Mine; Wild Area locations; Max Raid Battles"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Chargestone Cavern; Terarium biomes (Canyon, Polar); Tera Raid Battles (3★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Magenta District (Wild Zone 14); Jaune District (Wild Zone 8)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ground (1★, 4★), Steel (4★)"
+      }
+    ]
+  }
+]
