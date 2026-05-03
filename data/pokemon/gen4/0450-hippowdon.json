@@ -1,0 +1,66 @@
+[
+  {
+    "number": 450,
+    "name": "Hippowdon",
+    "form": "Sinnoh",
+    "availability": [
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Route 228"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Desert Resort (Swarm)"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Ultra Space Wilds (Cave World)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Route 8, Giant's Mirror, Lake of Outrage; Dusty Bowl (Max Raid)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Route 228"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Crimson Mirelands; Coronet Highlands; massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) West Province (Asado Desert); Tera Raid Battles (5★, 6★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ground (4★)"
+      }
+    ]
+  }
+]
