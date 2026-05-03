@@ -1,0 +1,104 @@
+[
+  {
+    "number": 147,
+    "name": "Dratini",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGBY) Safari Zone (Fishing); (RG) Celadon Game Corner"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Dragon's Den, Route 45 (Surfing/Fishing); Goldenrod Game Corner"
+      },
+      {
+        "game": "GSC",
+        "method": "R",
+        "notes": "(C) Dragon's Den (Master quiz)"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FRLG) Safari Zone (Fishing); Celadon Game Corner"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Mt. Coronet (Fishing)"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Dragon's Den (Surfing/Fishing); Safari Zone (Swamp); Goldenrod Game Corner"
+      },
+      {
+        "game": "HGSS",
+        "method": "R",
+        "notes": "(HGSS) Dragon's Den (Master quiz)"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Dragonspiral Tower (Fishing); Dream World"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Dragonspiral Tower (Fishing)"
+      },
+      {
+        "game": "B2W2",
+        "method": "R",
+        "notes": "(W2) Received from Benga (Shiny)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 21 (Fishing)"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Poni Gauntlet, Meadow, Vast Canyon (Fishing)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Poni Gauntlet, Meadow (Fishing)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Route 10 (Sea Skim)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Ballimere Lake (Surf/Fishing); Crown Tundra (Max Raid)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Mt. Coronet (Fishing); Grand Underground (Fountainspring Cave)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) South Province (Area Six); North Province (Area Two, Casseroya Lake); Tera Raid Battles (3★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Multiple districts (Wild Zones)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Dragon (3★, 4★)"
+      }
+    ]
+  }
+]
