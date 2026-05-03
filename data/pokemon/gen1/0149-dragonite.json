@@ -1,0 +1,77 @@
+[
+  {
+    "number": 149,
+    "name": "Dragonite",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "E"
+      },
+      {
+        "game": "GSC",
+        "method": "E"
+      },
+      {
+        "game": "FRLG",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Dragonspiral Tower (Fishing)"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Dragonspiral Tower (Fishing); (B2W2) Route 18 (Hidden Grotto)"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Poni Gauntlet (SOS)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Poni Gauntlet (SOS)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Multiple routes"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Ballimere Lake (Wanderer); Crown Tundra (Max Raid Battles)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) North Province (Area Two, Casseroya Lake); Tera Raid Battles (5★, 6★); (SV) Area Two (Steel Tera)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "ED"
+      }
+    ]
+  }
+]
