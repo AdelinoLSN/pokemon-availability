@@ -60,7 +60,9 @@ func InsertPokemon(db *sql.DB, pokemon []domain.Pokemon) error {
 
   const queryAvailability = `
     INSERT INTO pokemon_availability (pokemon_id, game_abbreviation, method_key, note)
-    VALUES ($1, $2, $3, $4);`
+    VALUES ($1, $2, $3, $4)
+    ON CONFLICT (pokemon_id, game_abbreviation, method_key) DO NOTHING;
+  `
 
   for _, p := range pokemon {
     var pokemonID int

@@ -29,6 +29,7 @@ func InitSchema(db *sql.DB) error {
 			game_abbreviation TEXT NOT NULL,
 			method_key TEXT NOT NULL,
 			note TEXT,
+      UNIQUE (pokemon_id, game_abbreviation, method_key),
 			FOREIGN KEY (pokemon_id) REFERENCES pokemon(id),
 			FOREIGN KEY (game_abbreviation) REFERENCES games(abbreviation),
 			FOREIGN KEY (method_key) REFERENCES methods(key)
