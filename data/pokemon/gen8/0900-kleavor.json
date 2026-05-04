@@ -1,0 +1,24 @@
+[
+  {
+    "number": 900,
+    "name": "Kleavor",
+    "form": "Hisui",
+    "availability": [
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Obsidian Fieldlands (massive mass outbreaks)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Canyon Biome; Tera Raid Battles (6★)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Bug (4★)"
+      }
+    ]
+  }
+]
