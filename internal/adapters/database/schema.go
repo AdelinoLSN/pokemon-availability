@@ -44,7 +44,8 @@ func InitSchema(db *sql.DB) error {
 			g.name AS game,
 			m.key as method_key,
 			m.description AS method_description,
-			pa.note
+      pa.note,
+      p.id as id
 		FROM pokemon p
 		JOIN pokemon_availability pa ON pa.pokemon_id = p.id
 		JOIN games g ON g.abbreviation = pa.game_abbreviation
