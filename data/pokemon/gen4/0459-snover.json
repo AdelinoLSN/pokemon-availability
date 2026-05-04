@@ -1,0 +1,73 @@
+[
+  {
+    "number": 459,
+    "name": "Snover",
+    "form": "Sinnoh",
+    "availability": [
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Routes 216, 217; Acuity Lakefront; Mt. Coronet (peak); (Pt) Lake Acuity"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(PW) Icy Mountain Rd."
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(DW) Icy Cave"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 17; Friend Safari (Ice)"
+      },
+      {
+        "game": "USUM",
+        "method": "B"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Routes 8, 10; Wild Area locations; Max Raid Battles"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Frostpoint Field"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 216, 217; Acuity Lakefront; Mt. Coronet; Grand Underground (ice caves)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Coronet Highlands; Alabaster Icelands; massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) North Province (Glaseado Mountain); Tera Raid Battles (3★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Chargestone Cavern; Polar Biome"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 12)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Grass (4★), Ice (3★, 4★)"
+      }
+    ]
+  }
+]
