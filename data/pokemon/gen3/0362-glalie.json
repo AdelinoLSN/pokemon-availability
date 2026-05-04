@@ -1,0 +1,78 @@
+[
+  {
+    "number": 362,
+    "name": "Glalie",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "transfer from Pokémon Omega Ruby and Pokémon Alpha Sapphire Special Demo Version (international)"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Mount Lanakila (SOS)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Mount Lanakila"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Routes 9, 10; Lake of Outrage; Wanderers; Max Raid Battles"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Crown Tundra areas; Max Lair; Max Raid Battles"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 216, 217; Acuity Lakefront; Grand Underground (ice caves)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Alabaster Icelands; massive mass outbreaks; shaking ore deposits; static encounter"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) North Province (Glaseado Mountain); Tera Raid Battles (5★)"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ice (4★)"
+      }
+    ]
+  }
+]
