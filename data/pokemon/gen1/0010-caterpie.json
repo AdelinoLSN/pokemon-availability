@@ -1,0 +1,72 @@
+[
+  {
+    "number": 10,
+    "name": "Caterpie",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGBY) Viridian Forest; (RGB) Routes 25; (GB) Routes 2, 24"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Bug-Catching Contest; (GC) Routes 2, 30, 31, Ilex Forest, National Park; ..."
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FRLG) Routes 2, 24, 25; Viridian Forest; Pattern Bush"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(Pt) Route 204 (FireRed); (Pt) Eterna Forest; Route 204 (FireRed)"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Bug-Catching Contest; (GC) Routes 2, 30, 31; Ilex Forest, National Park, Viridian Forest; Headbutt trees"
+      },
+      {
+        "game": "BW",
+        "method": "B"
+      },
+      {
+        "game": "B2W2",
+        "method": "B"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Santalune Forest; (Y) Route 2"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Routes 1, 5; Melemele Meadow; Lush Jungle"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Routes 1, 5; Melemele Meadow; Lush Jungle (SOS)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Route 2; Viridian Forest"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Route 1; Wild Area (Max Raid)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BD) Grand Underground (multiple caves)"
+      }
+    ]
+  }
+]
