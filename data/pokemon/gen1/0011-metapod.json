@@ -1,0 +1,72 @@
+[
+  {
+    "number": 11,
+    "name": "Metapod",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGBY) Viridian Forest; (RGB) Routes 24, 25; (R) Route 25"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Bug-Catching Contest; (GC) Routes 2, 30, 31; Ilex Forest, National Park; Headbutt trees"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FRLG) Routes 24, 25; Viridian Forest; Pattern Bush"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Eterna Forest (FireRed)"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Bug-Catching Contest; (HG) Routes 2, 30, 31; Ilex Forest, National Park, Viridian Forest; Route 47; Headbutt trees"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(W) Route 12"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(Y) Santalune Forest"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Routes 1, 5; Melemele Meadow; Lush Jungle"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Route 5; Melemele Meadow; Lush Jungle"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Viridian Forest"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Rolling Fields; Wild Area (Max Raid)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      }
+    ]
+  }
+]
