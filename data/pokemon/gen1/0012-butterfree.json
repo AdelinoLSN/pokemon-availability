@@ -1,0 +1,75 @@
+[
+  {
+    "number": 12,
+    "name": "Butterfree",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "E"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Bug-Catching Contest; (GC) Route 2; Headbutt trees; National Park"
+      },
+      {
+        "game": "FRLG",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Bug-Catching Contest; (HG) Route 2, Viridian Forest; Route 47; Headbutt trees"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(W) Route 12 (Rustling grass); Dream World"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(W2) Pinwheel Forest (Hidden Grotto)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Bug)"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Route 5; Melemele Meadow; Lush Jungle (SOS)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Route 5; Melemele Meadow; Lush Jungle (SOS)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Viridian Forest"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Multiple Wild Area locations; Max Raid (incl. Gigantamax)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Max Lair; Crown Tundra raids (Gigantamax)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      }
+    ]
+  }
+]
