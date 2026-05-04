@@ -1,0 +1,89 @@
+[
+  {
+    "number": 361,
+    "name": "Snorunt",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "C",
+        "notes": "(RSE) Shoal Cave (low tide)"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Routes 216, 217; Acuity Lakefront; (Pt) Lake Acuity (Night)"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(PW) Icy Mountain Rd."
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Dream World"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Ice)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Shoal Cave (low tide)"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Mount Lanakila; Tapu Village"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Mount Lanakila; Tapu Village"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Route 8; Wild Area locations; Max Raid Battles"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Crown Tundra areas; Max Raid Battles"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Routes 216, 217; Acuity Lakefront; Grand Underground (ice caves)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Alabaster Icelands; massive mass outbreaks; shaking ore deposits"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) North Province (Dalizapa Passage, Glaseado Mountain); Tera Raid Battles (2★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Oni Mountain; Chilling Waterhead"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 12)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ice (3★, 4★)"
+      }
+    ]
+  }
+]
