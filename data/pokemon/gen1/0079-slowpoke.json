@@ -1,0 +1,131 @@
+[
+  {
+    "number": 79,
+    "name": "Slowpoke",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGBY) Seafoam Islands; (RGB) Route 10, Celadon, Safari Zone (Fishing); (Y) Routes 12, 13 (Surf)"
+      },
+      {
+        "game": "RGBY",
+        "method": "T",
+        "notes": "Trade for Seel at the Pokémon Lab"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Slowpoke Well; Tohjo Falls"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(LG) Multiple routes, islands, caves (Surf/Fishing/Grass)"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(PPt) Route 205 (Poké Radar)"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Slowpoke Well; Tohjo Falls; Safari Zone; (PW) Beautiful Beach"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Abundant Shrine; Dream World"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Abundant Shrine (Swarm); Dream Radar"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 12; Azure Bay (Horde)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Mirage Caves"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Routes 1, 15, 16; Kala'e Bay"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Routes 1, 15, 16; Kala'e Bay; Poké Pelago"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Seafoam Islands"
+      },
+      {
+        "game": "SwSh",
+        "method": "R",
+        "notes": "Reward for finding at least 10 Alolan Diglett"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(SP) Route 205; Grand Underground (multiple caves)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) Multiple provinces; Tera Raid Battles (2★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 10); Jaune District (Wild Zone 11)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Water (3★, 4★), Psychic (4★)"
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "name": "Slowpoke",
+    "form": "Galar",
+    "availability": [
+      {
+        "game": "SwSh",
+        "method": "R",
+        "notes": "(SwSh) Wedgehurst Station (one)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Max Raid locations"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Coastal Biome; Torchlit Labyrinth; Tera Raid Battles (3★)"
+      },
+      {
+        "game": "ZA",
+        "method": "T",
+        "notes": "(ZA) Trade (Side Mission 39)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Poison (5★), Psychic (3★)"
+      }
+    ]
+  }
+]
