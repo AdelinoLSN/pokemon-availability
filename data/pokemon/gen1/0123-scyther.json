@@ -1,0 +1,94 @@
+[
+  {
+    "number": 123,
+    "name": "Scyther",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RBY) Safari Zone; (RY) Celadon Game Corner"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) National Park (Bug-Catching Contest)"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FR) Safari Zone; Celadon Game Corner"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(D) Route 229; (Pt) Routes 210, 215"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) National Park (Bug-Catching Contest)"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Dream World"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 21"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Poni Plains; Poké Pelago"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Poni Plains"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGP) Routes 14, 15"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Training Lowlands; Wanderer; Max Raid; Max Lair"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BD) Route 229; Grand Underground (multiple caves)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Obsidian Fieldlands; Coronet Highlands; Alabaster Icelands (distortions)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) Multiple provinces; Tera Raid Battles (4★, 5★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Savanna Biome; Canyon Biome; Chargestone Cavern"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Rouge District (Wild Zone 13 - Night)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Bug (4★), Steel (4★)"
+      }
+    ]
+  }
+]
