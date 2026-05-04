@@ -56,7 +56,7 @@ func InsertPokemon(db *sql.DB, pokemon []domain.Pokemon) error {
 
   const queryPokemon = `
     WITH inserted AS (
-      INSERT INTO pokemon (number, name, form) 
+      INSERT INTO pokemon (number, name, form)
       VALUES ($1, $2, $3)
       ON CONFLICT (number, form) DO NOTHING
       RETURNING id
@@ -104,7 +104,8 @@ func GetPokemonFullViewForGame(db *sql.DB, gameAbbreviation string) ([]PokemonFu
       method_key,
       COALESCE(note, '-') AS note
     FROM pokemon_full_view
-    WHERE game_abbreviation = $1;
+    WHERE game_abbreviation = $1
+    ORDER BY id;
   `
 
   rows, err := db.Query(query, gameAbbreviation)
