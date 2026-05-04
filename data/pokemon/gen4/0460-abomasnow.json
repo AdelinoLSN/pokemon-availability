@@ -1,0 +1,72 @@
+[
+  {
+    "number": 460,
+    "name": "Abomasnow",
+    "form": "Sinnoh",
+    "availability": [
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Mt. Coronet (Exterior)"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 17"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Ultra Space Wilds (Cave)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Route 10; Wild Area; Wanderers; Max Raid Battles"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Crown Tundra areas; Wanderer; Max Lair; Max Raid Battles"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Mt. Coronet (Exterior)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Coronet Highlands; Alabaster Icelands; massive mass outbreaks"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) North Province (Glaseado Mountain); Tera Raid Battles (5★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Chargestone Cavern; Polar Biome"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 12)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Grass (4★), Ice (4★)"
+      }
+    ]
+  }
+]
