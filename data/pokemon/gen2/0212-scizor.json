@@ -1,0 +1,74 @@
+[
+  {
+    "number": 212,
+    "name": "Scizor",
+    "form": "Johto",
+    "availability": [
+      {
+        "game": "GSC",
+        "method": "E"
+      },
+      {
+        "game": "FRLG",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Training Lowlands; Challenge Road (Wanderer); Fields of Honor (Max Raid)"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Alabaster Icelands (space-time distortions)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) Tera Raid Battles (5★, 6★)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Savanna Biome; Canyon Biome; Chargestone Cavern"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Bug (4★), Steel (4★)"
+      }
+    ]
+  }
+]
