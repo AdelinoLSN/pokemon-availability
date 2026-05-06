@@ -1,0 +1,98 @@
+[
+  {
+    "number": 95,
+    "name": "Onix",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "C",
+        "notes": "(RGBY) Rock Tunnel; Victory Road"
+      },
+      {
+        "game": "GSC",
+        "method": "C",
+        "notes": "(GSC) Rock Tunnel; Mt. Silver; Victory Road; Union Cave"
+      },
+      {
+        "game": "GSC",
+        "method": "T",
+        "notes": "Trade Bellsprout (Violet City)"
+      },
+      {
+        "game": "FRLG",
+        "method": "C",
+        "notes": "(FRLG) Rock Tunnel; Victory Road; Sevault Canyon"
+      },
+      {
+        "game": "DPPt",
+        "method": "C"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Union Cave; Mt. Silver; Cliff Cave; Victory Road; Rock Tunnel; Safari Zone; (PW) multiple areas"
+      },
+      {
+        "game": "HGSS",
+        "method": "T",
+        "notes": "Trade Bellsprout (Violet City)"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Relic Castle; Dream World"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Relic Passage; Twist Mountain; Clay Tunnel; Underground Ruins; Victory Road"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Glittering Cave, Friend Safari (Rock); (X) Cyllage City (Rock Smash)"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Granite Cave (hidden); Mirage Caves"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Ten Carat Hill (Island Scan)"
+      },
+      {
+        "game": "LGPE",
+        "method": "C",
+        "notes": "(LGPE) Mt. Moon; Rock Tunnel; Victory Road"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Wild Area; Wanderer; Max Raid Battles"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Iron Island; Snowpoint Temple; Oreburgh Mine; Victory Road; Stark Mountain; Grand Underground (multiple caves)"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Multiple regions; space-time distortions; massive mass outbreaks"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Magenta District (Wild Zone 14)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ground (1★, 3★), Rock (3★), Steel (4★), Special (5★)"
+      }
+    ]
+  }
+]
