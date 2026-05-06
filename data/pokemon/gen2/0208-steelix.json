@@ -1,0 +1,79 @@
+[
+  {
+    "number": 208,
+    "name": "Steelix",
+    "form": "Johto",
+    "availability": [
+      {
+        "game": "GSC",
+        "method": "E"
+      },
+      {
+        "game": "FRLG",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Victory Road; Iron Island; (DP) Snowpoint Temple"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Cliff Cave; Mt. Silver; Trade with Jasmine"
+      },
+      {
+        "game": "HGSS",
+        "method": "T",
+        "notes": "Trade any Pokémon with Jasmine"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Clay Tunnel; Twist Mountain; Underground Ruins (dust)"
+      },
+      {
+        "game": "XY",
+        "method": "T",
+        "notes": "(XY) Trade Luvdisc (Cyllage City)"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Giant's Mirror; Giant's Seat (Wanderer); Max Raid Battles"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Victory Road; Iron Island; Snowpoint Temple"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Multiple regions; space-time distortions; massive mass outbreaks"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Rouge District (Wild Zone 3; one during Mission 40)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Steel (4★), Special (5★)"
+      }
+    ]
+  }
+]
