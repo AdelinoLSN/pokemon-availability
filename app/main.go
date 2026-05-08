@@ -32,6 +32,11 @@ func main() {
 	database.InsertGames(db, games)
 	database.InsertPokemon(db, pokemon)
 
+	if err := database.RefreshPokemonFullMV(db);
+	err != nil {
+		log.Fatal(err)
+	}
+
 	log.Println("ETL finished with success")
 
   ExportToCSV(db, games)

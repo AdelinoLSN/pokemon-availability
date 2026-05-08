@@ -95,6 +95,18 @@ func InsertPokemon(db *sql.DB, pokemon []domain.Pokemon) error {
   return nil
 }
 
+func RefreshPokemonFullMV(db *sql.DB) error {
+  _, err := db.Exec(`
+    REFRESH MATERIALIZED VIEW CONCURRENTLY pokemon_full_mv;
+  `)
+
+  if err != nil {
+    return fmt.Errorf("error refreshing pokemon_full_mv: %w", err)
+  }
+
+  return nil
+}
+
 func GetPokemonFullViewForGame(db *sql.DB, gameAbbreviation string) ([]PokemonFullViewRow, error) {
   query := `
     SELECT
