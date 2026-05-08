@@ -1,0 +1,38 @@
+[
+  {
+    "number": 711,
+    "name": "Gourgeist",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Hammerlocke Hills (Wanderer - Medium); Max Raid Battles (Medium)"
+      },
+      {
+        "game": "SwSh",
+        "method": "E",
+        "notes": "Evolve Pumpkaboo (All Sizes)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Max Lair (All Sizes)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Jaune District (Wild Zone 15 - Medium); Centrico Plaza (Wild Zone 20 - Medium)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ghost (4★), Grass (4★) (Only Medium Size)"
+      }
+    ]
+  }
+]
