@@ -1,0 +1,45 @@
+[
+  {
+    "number": 658,
+    "name": "Greninja",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "RS",
+        "notes": "(SM) Sun/Moon Special Demo Version transfer"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Poni Wilds (Island Scan)"
+      },
+      {
+        "game": "SV",
+        "method": "T"
+      },
+      {
+        "game": "SV",
+        "method": "CE",
+        "notes": "(SV) Poké Portal News (2023)"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Water (4★, 5★), Dark (4★)"
+      }
+    ]
+  }
+]
