@@ -1,0 +1,42 @@
+[
+  {
+    "number": 656,
+    "name": "Froakie",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "R",
+        "notes": "(XY) Starter from Tierno; Shauna trade post-Champion (if Chespin chosen as starter)"
+      },
+      {
+        "game": "USUM",
+        "method": "B"
+      },
+      {
+        "game": "SV",
+        "method": "B"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Coastal Biome (biodiversity upgrade)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Bleu District (Wild Zone 16)"
+      },
+      {
+        "game": "ZA",
+        "method": "R",
+        "notes": "(ZA) Rouge District (North Boulevard - Side Mission 9)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Water (2★, 3★, 5★)"
+      }
+    ]
+  }
+]
