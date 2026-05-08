@@ -1,0 +1,29 @@
+[
+  {
+    "number": 710,
+    "name": "Pumpkaboo",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 16 (All Sizes); Friend Safari (Ghost - Medium)"
+      },
+      {
+        "game": "SwSh",
+        "method": "C",
+        "notes": "(SwSh) Route 4; Giant's Mirror; Hammerlocke Hills (All Sizes); Max Raid Battles (All Sizes); South Lake Miloch, Watchtower Ruins, Stony Wilderness (Medium)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Jaune District (Wild Zone 15 - Medium/Small Day; Large/Jumbo Night)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Ghost (1★, 4★), Grass (4★) (Only Medium Size)"
+      }
+    ]
+  }
+]
