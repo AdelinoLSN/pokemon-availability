@@ -1,0 +1,73 @@
+[
+  {
+    "number": 372,
+    "name": "Shelgon",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Safari Zone (tall grass in Wetland with 63 Peak points)"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Dragon)"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Kala'e Bay (SOS)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Kala'e Bay (SOS)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sw DLC) Max Raid locations"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(SP) Grand Underground (multiple caves)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(V) South Province (Alfornada Cavern); North Province (Area Two); Tera Raid Battles (4★); (S) Union Circle"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Dragon (4★)"
+      }
+    ]
+  }
+]
