@@ -1,0 +1,40 @@
+[
+  {
+    "number": 655,
+    "name": "Delphox",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Ancient Poni Path (Island Scan)"
+      },
+      {
+        "game": "SV",
+        "method": "T"
+      },
+      {
+        "game": "SV",
+        "method": "CE",
+        "notes": "(SV) Poké Portal News (2023)"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fire (4★, 5★), Psychic (4★)"
+      }
+    ]
+  }
+]
