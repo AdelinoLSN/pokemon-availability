@@ -1,0 +1,40 @@
+[
+  {
+    "number": 652,
+    "name": "Chesnaught",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Exeggutor Island (Island Scan)"
+      },
+      {
+        "game": "SV",
+        "method": "T"
+      },
+      {
+        "game": "SV",
+        "method": "CE",
+        "notes": "(SV) Poké Portal News (2023)"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Grass (4★, 5★), Fighting (4★)"
+      }
+    ]
+  }
+]
