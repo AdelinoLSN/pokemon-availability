@@ -1,0 +1,35 @@
+[
+  {
+    "number": 654,
+    "name": "Braixen",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Fire)"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "ED"
+      },
+      {
+        "game": "ZA",
+        "method": "E"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fire (3★, 4★), Psychic (4★)"
+      }
+    ]
+  }
+]
