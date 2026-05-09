@@ -1,0 +1,29 @@
+[
+  {
+    "number": 717,
+    "name": "Yveltal",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "R",
+        "notes": "(Y) Team Flare Secret HQ (only one)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(UM) Ultra Space Wilds - Cliff World (only one)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sh DLC) Max Lair (Dynamax Adventure - only one)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Rouge District (Rouge Sector 2 - only one)"
+      }
+    ]
+  }
+]
