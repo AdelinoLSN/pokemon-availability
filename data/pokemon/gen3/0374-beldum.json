@@ -1,0 +1,83 @@
+[
+  {
+    "number": 374,
+    "name": "Beldum",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "R",
+        "notes": "(RSE) Steven's house in Mossdeep City (post-Hall of Fame)"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(DPPt) Route 228 (Swarm)"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Safari Zone (Forest); (PW) Winner's Path"
+      },
+      {
+        "game": "HGSS",
+        "method": "T",
+        "notes": "(HGSS) Trade Forretress to Steven at Silph Co."
+      },
+      {
+        "game": "BW",
+        "method": "B",
+        "notes": "(BW) Dream World"
+      },
+      {
+        "game": "B2W2",
+        "method": "B",
+        "notes": "(B2W2) Dream Radar"
+      },
+      {
+        "game": "XY",
+        "method": "B"
+      },
+      {
+        "game": "ORAS",
+        "method": "R",
+        "notes": "(ORAS) Steven's house in Mossdeep City (post-Delta Episode)"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Mount Hokulani"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Mount Hokulani"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Snowslide Slope; Max Raid locations"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Route 228 (Swarm); Grand Underground (multiple caves)"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Canyon Biome, Chargestone Cavern, Polar Biome; Tera Raid Battles (3★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Lysandre Labs"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Steel (2★, 4★), Psychic (3★)"
+      }
+    ]
+  }
+]
