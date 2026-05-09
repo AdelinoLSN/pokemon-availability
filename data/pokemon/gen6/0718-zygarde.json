@@ -1,0 +1,39 @@
+[
+  {
+    "number": 718,
+    "name": "Zygarde",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "R",
+        "notes": "(XY) Terminus Cave (50% Forme, only one)"
+      },
+      {
+        "game": "SM",
+        "method": "R",
+        "notes": "(SM) Aether Base Route 16 (Reassembly Unit)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Resolution Cave (50% Forme, Aura Break)"
+      },
+      {
+        "game": "USUM",
+        "method": "R",
+        "notes": "(USUM) Aether Base Route 16 gift (10% Forme, Aura Break); Reassembly Unit"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Max Lair (Dynamax Adventure - only one, 50% Forme, Power Construct)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20 - only one)"
+      }
+    ]
+  }
+]
