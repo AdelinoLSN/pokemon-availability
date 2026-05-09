@@ -1,0 +1,29 @@
+[
+  {
+    "number": 716,
+    "name": "Xerneas",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "R",
+        "notes": "(X) Team Flare Secret HQ (only one)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(US) Ultra Space Wilds - Rocky World (only one)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Max Lair (Dynamax Adventure - only one)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Jaune District (Wild Zone 11 - only one)"
+      }
+    ]
+  }
+]
