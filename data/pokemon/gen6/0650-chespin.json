@@ -1,0 +1,42 @@
+[
+  {
+    "number": 650,
+    "name": "Chespin",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "R",
+        "notes": "(XY) Starter from Tierno; Shauna trade post-Champion (if Fennekin chosen as starter)"
+      },
+      {
+        "game": "USUM",
+        "method": "B"
+      },
+      {
+        "game": "SV",
+        "method": "B"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Chargestone Cavern (Canyon Biome biodiversity upgrade)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Vert District (Wild Zone 17)"
+      },
+      {
+        "game": "ZA",
+        "method": "R",
+        "notes": "(ZA) Académie Étoile (Side Mission 7)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Grass (2★, 3★, 5★)"
+      }
+    ]
+  }
+]
