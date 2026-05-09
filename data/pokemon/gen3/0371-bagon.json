@@ -1,0 +1,79 @@
+[
+  {
+    "number": 371,
+    "name": "Bagon",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "C",
+        "notes": "(RSE) Meteor Falls"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(PPt) Route 210 (Poké Radar)"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Safari Zone (tall grass in Swamp with 56 Peak points and 35 Forest points)"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(W) White Forest; Dream World"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Pinwheel Forest (Hidden Grotto)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Route 8"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Meteor Falls"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Route 3; Kala'e Bay"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Route 3; Kala'e Bay"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sw DLC) Tunnel to the Top; Max Raid locations"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(SP) Route 210 (Poké Radar); Grand Underground (multiple caves)"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(V) Multiple provinces; Tera Raid Battles (3★); (S) Union Circle"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Magenta District (Wild Zone 18)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Dragon (3★, 4★)"
+      }
+    ]
+  }
+]
