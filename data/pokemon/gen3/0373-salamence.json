@@ -1,0 +1,70 @@
+[
+  {
+    "number": 373,
+    "name": "Salamence",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "E"
+      },
+      {
+        "game": "B2W2",
+        "method": "E"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "C",
+        "notes": "(SM) Route 3 (SOS)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Route 3 (SOS)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(Sw DLC) Tunnel to the Top, Path to the Peak (Wanderer); Max Raid locations"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "C",
+        "notes": "(SV) Tera Raid Battles (5★, 6★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Magenta District (Wild Zone 18)"
+      },
+      {
+        "game": "ZA",
+        "method": "ED"
+      }
+    ]
+  }
+]
