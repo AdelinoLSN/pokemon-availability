@@ -1,0 +1,18 @@
+[
+  {
+    "number": 719,
+    "name": "Diancie",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "RE"
+      },
+      {
+        "game": "ZA",
+        "method": "R",
+        "notes": "(ZA) Magenta Sector 8 (Mystery Gift activation, only one)"
+      }
+    ]
+  }
+]
