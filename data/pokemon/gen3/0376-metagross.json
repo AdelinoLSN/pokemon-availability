@@ -1,0 +1,70 @@
+[
+  {
+    "number": 376,
+    "name": "Metagross",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "E"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Giant Chasm (rustling grass)"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Giant Chasm (rustling grass)"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Snowslide Slope (Wanderer); Max Raid locations"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Tera Raid Battles (5★, 6★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Centrico Plaza (Wild Zone 20)"
+      },
+      {
+        "game": "ZA",
+        "method": "ED"
+      }
+    ]
+  }
+]
