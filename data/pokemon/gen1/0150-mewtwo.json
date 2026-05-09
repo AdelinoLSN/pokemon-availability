@@ -1,0 +1,59 @@
+[
+  {
+    "number": 150,
+    "name": "Mewtwo",
+    "form": "Kanto",
+    "availability": [
+      {
+        "game": "RGBY",
+        "method": "R",
+        "notes": "(RGBY) Cerulean Cave (only one)"
+      },
+      {
+        "game": "FRLG",
+        "method": "R",
+        "notes": "(FRLG) Cerulean Cave (only one)"
+      },
+      {
+        "game": "HGSS",
+        "method": "R",
+        "notes": "(HGSS) Cerulean Cave (only one)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Unknown Dungeon (only one)"
+      },
+      {
+        "game": "USUM",
+        "method": "C",
+        "notes": "(USUM) Ultra Space Wilds - Rocky World (only one)"
+      },
+      {
+        "game": "LGPE",
+        "method": "R",
+        "notes": "(LGPE) Cerulean Cave (only one)"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Max Lair (Dynamax Adventure - only one)"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Ramanas Park (Genome Slate, only one)"
+      },
+      {
+        "game": "SV",
+        "method": "CE",
+        "notes": "(SV) Poké Portal News (2023)"
+      },
+      {
+        "game": "ZA",
+        "method": "CE",
+        "notes": "(ZA) Lysandre Labs (Mystery Gift activation, only one)"
+      }
+    ]
+  }
+]
