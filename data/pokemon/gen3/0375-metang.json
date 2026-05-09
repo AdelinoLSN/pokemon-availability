@@ -1,0 +1,74 @@
+[
+  {
+    "number": 375,
+    "name": "Metang",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "E"
+      },
+      {
+        "game": "DPPt",
+        "method": "E"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) Safari Zone (Mountain with 56 Peak points)"
+      },
+      {
+        "game": "BW",
+        "method": "C",
+        "notes": "(BW) Giant Chasm (Crater Forest)"
+      },
+      {
+        "game": "B2W2",
+        "method": "C",
+        "notes": "(B2W2) Giant Chasm (Crater Forest, Hidden Grotto)"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Steel)"
+      },
+      {
+        "game": "ORAS",
+        "method": "E"
+      },
+      {
+        "game": "SM",
+        "method": "E",
+        "notes": "(SM) Poké Pelago"
+      },
+      {
+        "game": "USUM",
+        "method": "E"
+      },
+      {
+        "game": "SwSh",
+        "method": "CD",
+        "notes": "(SwSh DLC) Snowslide Slope (Wanderer); Max Raid locations; Max Lair"
+      },
+      {
+        "game": "BDSP",
+        "method": "E"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Canyon Biome, Chargestone Cavern, Polar Biome; Tera Raid Battles (4★)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Lysandre Labs"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Steel (4★)"
+      }
+    ]
+  }
+]
