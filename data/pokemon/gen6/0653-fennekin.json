@@ -1,0 +1,42 @@
+[
+  {
+    "number": 653,
+    "name": "Fennekin",
+    "form": "Kalos",
+    "availability": [
+      {
+        "game": "XY",
+        "method": "R",
+        "notes": "(XY) Starter from Tierno; Shauna trade post-Champion (if Froakie chosen as starter)"
+      },
+      {
+        "game": "USUM",
+        "method": "B"
+      },
+      {
+        "game": "SV",
+        "method": "B"
+      },
+      {
+        "game": "SV",
+        "method": "CD",
+        "notes": "(SV DLC) Savanna Biome (biodiversity upgrade)"
+      },
+      {
+        "game": "ZA",
+        "method": "C",
+        "notes": "(ZA) Wild Zone 18"
+      },
+      {
+        "game": "ZA",
+        "method": "R",
+        "notes": "(ZA) Magenta Sector 2 (Side Mission 8)"
+      },
+      {
+        "game": "ZA",
+        "method": "CD",
+        "notes": "(ZA DLC) Hyperspace Lumiose - Fire (2★, 3★, 5★)"
+      }
+    ]
+  }
+]
