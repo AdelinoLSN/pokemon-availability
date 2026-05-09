@@ -6,13 +6,16 @@
     "B": "Breed",
 
     "CS": "Catch (Side Game)",
-    "CE": "Catch (Event)",
     "RS": "Received (Side Game)",
+
+    "CE": "Catch (Event)",
+    "RE": "Received via limited-time event distribution (Only form to get it in the it's game debut",
 
     "CD": "Catch (DLC)",
     "CED": "Catch (Event) (DLC)",
     "RD": "Received (DLC)",
     "TD": "In-game trade (DLC)",
     "ED": "Evolve (DLC)",
-    "BD": "Breed (DLC)"
+    "BD": "Breed (DLC)",
+    "RED": "Received via limited-time event distribution (Only form to get it in the it's game debut (DLC)"
 }
