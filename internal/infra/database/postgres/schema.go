@@ -107,10 +107,10 @@ var createMaterializedViewPokemonAvailabilityDetailsSql = fmt.Sprintf(
 		p.name AS name,
 		p.form,
 		g.abbreviation AS game_abbreviation,
-		g.name AS game,
 		M.key AS method_key,
-		M.description AS method_description,
 		pa.note,
+		M.description AS method_description,
+		g.name AS game,
 		p.id AS id
 	FROM %s p
 	JOIN %s pa ON pa.pokemon_id = p.id
