@@ -21,3 +21,4 @@ tmp/
 
 # Etc
 .DS_store
+coverage.html
