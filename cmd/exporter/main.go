@@ -33,29 +33,34 @@ func main() {
 }
 
 func runExporter(db *sql.DB, gamesFilepath string) error {
-	games := loadGames(gamesFilepath)
+	games, err := loadGames(gamesFilepath)
+	if err != nil {
+		return err
+	}
 
-	exportPokemonAvailabilityDetails(db, games)
+	if err := exportPokemonAvailabilityDetails(db, games); err != nil {
+		return err
+	}
 
 	return nil
 }
 
-func loadGames(gamesFilepath string) []domain.Game {
+func loadGames(gamesFilepath string) ([]domain.Game, error) {
 	gameSource := source.NewJsonGameSource(gamesFilepath)
 
 	loadGames := usecases.NewLoadGames(gameSource)
 
 	games, err := loadGames.Execute()
 	if err != nil {
-		panic(err)
+		return nil, err
 	}
 
 	log.Default().Println("Reloaded games")
 
-	return games
+	return games, nil
 }
 
-func exportPokemonAvailabilityDetails(db *sql.DB, games []domain.Game) {
+func exportPokemonAvailabilityDetails(db *sql.DB, games []domain.Game) error {
 	pokemonAvailabilityDetailRepository := repository.NewPostgresPokemonAvailabilityDetailRepository(db)
 	csvPokemonAvailabilityDetailExporter := exporter.NewCsvPokemonAvailabilityDetailExporter()
 
@@ -67,14 +72,16 @@ func exportPokemonAvailabilityDetails(db *sql.DB, games []domain.Game) {
 	for i, game := range games {
 		pokemonAvailabilityDetails, err := loadPokemonAvailabilityDetails.Execute(game.Abbreviation)
 		if err != nil {
-			panic(err)
+			return err
 		}
 
 		err = exportPokemonAvailabilityDetails.Execute(i, game, pokemonAvailabilityDetails)
 		if err != nil {
-			panic(err)
+			return err
 		}
 
 		log.Default().Printf("Exported data for game %s", game.Abbreviation)
 	}
+
+	return nil
 }
