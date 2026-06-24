@@ -89,8 +89,12 @@ func (u *ExportPokemonAvailabilityDetails) buildCSVRows(rows []models.PokemonAva
 		}
 
 		currentMethods = append(currentMethods, row.MethodKey)
+		rowNote := row.Note
+		if rowNote != "" {
+			rowNote = fmt.Sprintf("[%s]: %s", row.MethodKey, row.Note)
+		}
 
-		currentNotes = append(currentNotes, row.Note)
+		currentNotes = append(currentNotes, rowNote)
 	}
 
 	appendCurrentPokemon()
