@@ -1,4 +1,4 @@
-package main
+package app
 
 import (
 	"errors"
@@ -20,22 +20,12 @@ func TestRunExporter(t *testing.T) {
 		gamesFile := testutil.CreateTempFile(t, "", "games_*.json", gameContent)
 		defer gamesFile.Close()
 
-		columns := []string{"number", "name", "form", "game_abbreviation", "method_key", "note", "method_description", "game", "id"}
+		columns := []string{"number", "name", "form", "game_abbreviation", "game", "method_key", "method_description", "note", "id"}
 		mockSQL.ExpectQuery(`SELECT .*`).
 			WillReturnRows(sqlmock.NewRows(columns).
-				AddRow(
-					25,           // number
-					"Pikachu",    // name
-					"",           // form
-					"R",          // game_abbreviation
-					"STARTER",    // method_key
-					"Only one",   // note
-					"Starter DB", // method_description
-					"Red",        // game
-					99,           // id
-				))
+				AddRow(25, "Pikachu", "", "R", "Red", "STARTER", "Starter DB", "Only one", 99))
 
-		err = runExporter(mockDB, gamesFile.Name())
+		err = RunExporter(mockDB, gamesFile.Name())
 
 		assert.NoError(t, err)
 		err = mockSQL.ExpectationsWereMet()
@@ -46,7 +36,7 @@ func TestRunExporter(t *testing.T) {
 		mockDB, _, _ := sqlmock.New()
 		defer mockDB.Close()
 
-		err := runExporter(mockDB, "/path/invalid/games.json")
+		err := RunExporter(mockDB, "/path/invalid/games.json")
 
 		assert.Error(t, err)
 	})
@@ -63,7 +53,7 @@ func TestRunExporter(t *testing.T) {
 		mockSQL.ExpectQuery(`SELECT .*`).
 			WillReturnError(errors.New("simulated db error"))
 
-		err = runExporter(mockDB, gamesFile.Name())
+		err = RunExporter(mockDB, gamesFile.Name())
 
 		assert.Error(t, err)
 		assert.Contains(t, err.Error(), "simulated db error")
@@ -101,20 +91,10 @@ func TestExportPokemonAvailabilityDetails(t *testing.T) {
 			{Abbreviation: "R", Name: "Red", Generation: 1},
 		}
 
-		columns := []string{"number", "name", "form", "game_abbreviation", "method_key", "note", "method_description", "game", "id"}
+		columns := []string{"number", "name", "form", "game_abbreviation", "game", "method_key", "method_description", "note", "id"}
 		mockSQL.ExpectQuery(`SELECT .*`).
 			WillReturnRows(sqlmock.NewRows(columns).
-				AddRow(
-					25,           // number
-					"Pikachu",    // name
-					"",           // form
-					"R",          // game_abbreviation
-					"STARTER",    // method_key
-					"Only one",   // note
-					"Starter DB", // method_description
-					"Red",        // game
-					99,           // id
-				))
+				AddRow(25, "Pikachu", "", "R", "Red", "STARTER", "Starter DB", "Only one", 99))
 
 		err = exportPokemonAvailabilityDetails(mockDB, games)
 
@@ -132,7 +112,6 @@ func TestExportPokemonAvailabilityDetails(t *testing.T) {
 			{Abbreviation: "R", Name: "Red", Generation: 1},
 		}
 
-		// Simula uma falha na query do banco de dados para forçar o retorno do erro
 		mockSQL.ExpectQuery(`SELECT .*`).
 			WillReturnError(errors.New("simulated database failure"))
 

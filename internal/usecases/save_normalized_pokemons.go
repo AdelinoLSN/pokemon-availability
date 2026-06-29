@@ -39,7 +39,5 @@ func (u *SaveNormalizedPokemons) Execute(normalizedPokemons []models.NormalizedP
 		}
 	}
 
-	u.pokemonAvailabilityDetailRepository.RefreshMaterializedView()
-
-	return nil
+	return u.pokemonAvailabilityDetailRepository.RefreshMaterializedView()
 }

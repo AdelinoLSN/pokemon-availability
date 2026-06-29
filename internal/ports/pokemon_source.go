@@ -1,9 +1,9 @@
 package ports
 
 import (
-	"github.com/AdelinoLSN/pokemon-availability/internal/dto"
+	"github.com/AdelinoLSN/pokemon-availability/internal/usecases/models"
 )
 
 type PokemonSource interface {
-	LoadPokemonsJson() ([]dto.PokemonJson, error)
+	LoadNormalizedPokemons() ([]models.NormalizedPokemon, error)
 }

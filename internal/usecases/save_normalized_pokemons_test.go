@@ -166,3 +166,56 @@ func TestSaveNormalizedPokemons_ShouldReturnError_WhenPokemonSaveFails(t *testin
 		t.Fatalf("expected %v but got %v", expectedErr, err)
 	}
 }
+
+func TestSaveNormalizedPokemons_ShouldReturnError_WhenRefreshMaterializedViewFails(t *testing.T) {
+	expectedErr := errors.New("failed to refresh materialized view")
+
+	pokemonRepository := &mocks.MockPokemonRepository{
+		SaveResponses: []mocks.SaveResponse{
+			{
+				Id: 25,
+			},
+		},
+	}
+
+	pokemonAvailabilityRepository := &mocks.MockPokemonAvailabilityRepository{
+		SaveAllResponses: []mocks.SaveAllResponse{
+			{
+				Err: nil,
+			},
+		},
+	}
+
+	pokemonAvailabilityDetailRepository := &mocks.MockPokemonAvailabilityDetailRepository{
+		RefreshMaterializedViewResponses: []mocks.RefreshMaterializedViewResponse{
+			{
+				Err: expectedErr,
+			},
+		},
+	}
+
+	usecase := usecases.NewSaveNormalizedPokemons(
+		pokemonRepository,
+		pokemonAvailabilityRepository,
+		pokemonAvailabilityDetailRepository,
+	)
+
+	normalizedPokemons := []models.NormalizedPokemon{
+		{
+			Pokemon: domain.Pokemon{Number: 25, Name: "Pikachu"},
+			Availabilities: []domain.PokemonAvailability{
+				{GameAbbreviation: "RED", MethodKey: "STARTER", Note: "Only one"},
+			},
+		},
+	}
+
+	err := usecase.Execute(normalizedPokemons)
+
+	if err == nil {
+		t.Fatalf("expected error but got nil")
+	}
+
+	if !errors.Is(err, expectedErr) {
+		t.Fatalf("expected %v but got %v", expectedErr, err)
+	}
+}

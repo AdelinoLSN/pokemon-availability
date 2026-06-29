@@ -1,4 +1,4 @@
-package main
+package app
 
 import (
 	"errors"
@@ -10,7 +10,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestRunEtl(t *testing.T) {
+func TestRunETL(t *testing.T) {
 	t.Run("Success full flow", func(t *testing.T) {
 		gameContent := `[{"abbreviation": "R", "name": "Red", "generation": 1}]`
 		gamesFile := testutil.CreateTempFile(t, "", "games_*.json", gameContent)
@@ -49,7 +49,7 @@ func TestRunEtl(t *testing.T) {
 		mockSQL.ExpectExec(`REFRESH MATERIALIZED VIEW .*`).
 			WillReturnResult(sqlmock.NewResult(0, 0))
 
-		err = runEtl(mockDB, gamesFile.Name(), methodsFile.Name(), pokemonsDir)
+		err = RunETL(mockDB, gamesFile.Name(), methodsFile.Name(), pokemonsDir)
 
 		assert.NoError(t, err)
 		err = mockSQL.ExpectationsWereMet()
@@ -60,7 +60,7 @@ func TestRunEtl(t *testing.T) {
 		mockDB, _, _ := sqlmock.New()
 		defer mockDB.Close()
 
-		err := runEtl(mockDB, "/fake/games.json", "valid/path", "valid/dir")
+		err := RunETL(mockDB, "/fake/games.json", "valid/path", "valid/dir")
 
 		assert.Error(t, err)
 	})
@@ -77,7 +77,7 @@ func TestRunEtl(t *testing.T) {
 			WithArgs("R", "Red", 1).
 			WillReturnResult(sqlmock.NewResult(1, 1))
 
-		err := runEtl(mockDB, gamesFile.Name(), "/fake/methods.json", "valid/dir")
+		err := RunETL(mockDB, gamesFile.Name(), "/fake/methods.json", "valid/dir")
 
 		assert.Error(t, err)
 		err = mockSQL.ExpectationsWereMet()
@@ -104,7 +104,7 @@ func TestRunEtl(t *testing.T) {
 			WithArgs("WILD", "Wild encounter").
 			WillReturnResult(sqlmock.NewResult(1, 1))
 
-		err := runEtl(mockDB, gamesFile.Name(), methodsFile.Name(), "/fake/dir")
+		err := RunETL(mockDB, gamesFile.Name(), methodsFile.Name(), "/fake/dir")
 
 		assert.Error(t, err)
 		err = mockSQL.ExpectationsWereMet()
