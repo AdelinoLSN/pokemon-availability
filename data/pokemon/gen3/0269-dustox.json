@@ -1,0 +1,49 @@
+[
+    {
+        "number": 269,
+        "name": "Dustox",
+        "form": "Normal",
+        "availability": [
+            {
+                "game": "RSE",
+                "method": "E",
+                "notes": "Evolve Cascoon"
+            },
+            {
+                "game": "DPPt",
+                "method": "C",
+                "notes": "(PPt) Eterna Forest; (P) Route 230; (Pt) Routes 205, 224, 229"
+            },
+            {
+                "game": "HGSS",
+                "method": "C",
+                "notes": "National Park (Bug-Catching Contest)"
+            },
+            {
+                "game": "BW",
+                "method": "E",
+                "notes": "(W) Evolve Cascoon"
+            },
+            {
+                "game": "XY",
+                "method": "E",
+                "notes": "Evolve Cascoon"
+            },
+            {
+                "game": "ORAS",
+                "method": "E",
+                "notes": "Evolve Cascoon"
+            },
+            {
+                "game": "BDSP",
+                "method": "C",
+                "notes": "(SP) Route 230, Eterna Forest"
+            },
+            {
+                "game": "PLA",
+                "method": "C",
+                "notes": "Floaro Gardens, Grueling Grove (mass outbreaks nearby Day), The Heartwood, massive mass outbreaks; Bathers' Lagoon, Veilstone Cape"
+            }
+        ]
+    }
+]
