@@ -1,0 +1,49 @@
+[
+    {
+        "number": 268,
+        "name": "Cascoon",
+        "form": "Normal",
+        "availability": [
+            {
+                "game": "RSE",
+                "method": "C",
+                "notes": "Petalburg Woods"
+            },
+            {
+                "game": "DPPt",
+                "method": "C",
+                "notes": "(PPt) Eterna Forest, Route 205; (P) Routes 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 218, 221, 222, Floaroma Meadow, Fuego Ironworks, Valley Windworks (Honey Trees)"
+            },
+            {
+                "game": "HGSS",
+                "method": "C",
+                "notes": "National Park (Bug-Catching Contest)"
+            },
+            {
+                "game": "BW",
+                "method": "E",
+                "notes": "(W) Evolve"
+            },
+            {
+                "game": "XY",
+                "method": "C",
+                "notes": "Friend Safari (Poison)"
+            },
+            {
+                "game": "ORAS",
+                "method": "C",
+                "notes": "Petalburg Woods"
+            },
+            {
+                "game": "BDSP",
+                "method": "C",
+                "notes": "(SP) Eterna Forest, Routes 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 218, 221, 222, Floaroma Meadow, Fuego Ironworks, Valley Windworks (Honey Trees), Grand Underground - Grassland Cave, Riverbank Cave, Still-Water Cavern, Sunlit Cavern"
+            },
+            {
+                "game": "PLA",
+                "method": "C",
+                "notes": "Floaro Gardens, Horseshoe Plains, Heartwood, massive mass outbreaks"
+            }
+        ]
+    }
+]

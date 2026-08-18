@@ -1,0 +1,48 @@
+[
+  {
+    "number": 266,
+    "name": "Silcoon",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "C",
+        "notes": "(RSE) Petalburg Woods"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "Eterna Forest; (D) Routes 205-222, Honey Trees; (Pt) Route 205"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) National Park, Bug-Catching Contest"
+      },
+      {
+        "game": "BW",
+        "method": "E",
+        "notes": "(W) Evolve Wurmple"
+      },
+      {
+        "game": "XY",
+        "method": "E"
+      },
+      {
+        "game": "ORAS",
+        "method": "C",
+        "notes": "(ORAS) Petalburg Woods"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "Eterna Forest, Routes 205-222, Honey Trees, Grand Underground - Grassland Cave, Riverbank Cave, Still-Water Cavern, Sunlit Cavern"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "(PLA) Obsidian Fieldlands"
+      }
+    ]
+  }
+]

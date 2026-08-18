@@ -1,0 +1,49 @@
+[
+  {
+    "number": 267,
+    "name": "Beautifly",
+    "form": "Hoenn",
+    "availability": [
+      {
+        "game": "RSE",
+        "method": "E",
+        "notes": "(RSE) Evolve Silcoon"
+      },
+      {
+        "game": "DPPt",
+        "method": "C",
+        "notes": "(D) Routes 224 and 230, Eterna Forest; (P) Route 224; (Pt) Routes 205, 224, and 229, Eterna Forest"
+      },
+      {
+        "game": "HGSS",
+        "method": "C",
+        "notes": "(HGSS) National Park, Bug-Catching Contest"
+      },
+      {
+        "game": "BW",
+        "method": "E",
+        "notes": "(W) Evolve Silcoon"
+      },
+      {
+        "game": "XY",
+        "method": "C",
+        "notes": "(XY) Friend Safari (Bug)"
+      },
+      {
+        "game": "ORAS",
+        "method": "E",
+        "notes": "(ORAS) Evolve Silcoon"
+      },
+      {
+        "game": "BDSP",
+        "method": "C",
+        "notes": "(BDSP) Route 224; (BD) Route 230, Eterna Forest"
+      },
+      {
+        "game": "PLA",
+        "method": "C",
+        "notes": "Obsidian Fieldlands: Floaro Gardens, Grueling Grove, The Heartwood, massive mass outbreaks; Cobalt Coastlands: Bathers' Lagoon, Veilstone Cape"
+      }
+    ]
+  }
+]
