@@ -1,87 +1,38 @@
 package main
 
 import (
-	"database/sql"
+	"context"
 	"log"
-	"os"
 
-	"github.com/AdelinoLSN/pokemon-availability/internal/adapters/exporter"
-	"github.com/AdelinoLSN/pokemon-availability/internal/adapters/repository"
-	"github.com/AdelinoLSN/pokemon-availability/internal/adapters/source"
-	"github.com/AdelinoLSN/pokemon-availability/internal/app"
-	"github.com/AdelinoLSN/pokemon-availability/internal/domain"
-	"github.com/AdelinoLSN/pokemon-availability/internal/usecases"
+	"github.com/AdelinoLSN/pokemon-availability/internal/application/exportavailability"
+	"github.com/AdelinoLSN/pokemon-availability/internal/infrastructure/bootstrap"
+	"github.com/AdelinoLSN/pokemon-availability/internal/infrastructure/config"
 )
 
 func main() {
 	log.Default().Println("Starting export...")
 
-	app.LoadEnvironmentVariables()
-	db, err := app.InitDatabaseConnection()
+	ctx := context.Background()
+	configuration, err := config.Load()
+	if err != nil {
+		panic(err)
+	}
+	db, err := bootstrap.OpenDatabase(ctx, configuration.Postgres)
 	if err != nil {
 		panic(err)
 	}
 	defer db.Close()
+	if err := bootstrap.ApplyMigrations(ctx, db); err != nil {
+		panic(err)
+	}
 
-	gamesFilepath := os.Getenv("APP_GAMES_JSON_FILEPATH")
-
-	if err := runExporter(db, gamesFilepath); err != nil {
+	if err := runExporter(ctx, bootstrap.NewExportAvailability(configuration, db)); err != nil {
 		panic(err)
 	}
 
 	log.Default().Println("Data exported successfully")
 }
 
-func runExporter(db *sql.DB, gamesFilepath string) error {
-	games, err := loadGames(gamesFilepath)
-	if err != nil {
-		return err
-	}
-
-	if err := exportPokemonAvailabilityDetails(db, games); err != nil {
-		return err
-	}
-
-	return nil
-}
-
-func loadGames(gamesFilepath string) ([]domain.Game, error) {
-	gameSource := source.NewJsonGameSource(gamesFilepath)
-
-	loadGames := usecases.NewLoadGames(gameSource)
-
-	games, err := loadGames.Execute()
-	if err != nil {
-		return nil, err
-	}
-
-	log.Default().Println("Reloaded games")
-
-	return games, nil
-}
-
-func exportPokemonAvailabilityDetails(db *sql.DB, games []domain.Game) error {
-	pokemonAvailabilityDetailRepository := repository.NewPostgresPokemonAvailabilityDetailRepository(db)
-	csvPokemonAvailabilityDetailExporter := exporter.NewCsvPokemonAvailabilityDetailExporter()
-
-	loadPokemonAvailabilityDetails := usecases.NewLoadPokemonAvailabilityDetails(pokemonAvailabilityDetailRepository)
-	exportPokemonAvailabilityDetails := usecases.NewExportPokemonAvailabilityDetails(
-		csvPokemonAvailabilityDetailExporter,
-	)
-
-	for i, game := range games {
-		pokemonAvailabilityDetails, err := loadPokemonAvailabilityDetails.Execute(game.Abbreviation)
-		if err != nil {
-			return err
-		}
-
-		err = exportPokemonAvailabilityDetails.Execute(i, game, pokemonAvailabilityDetails)
-		if err != nil {
-			return err
-		}
-
-		log.Default().Printf("Exported data for game %s", game.Abbreviation)
-	}
-
-	return nil
+func runExporter(ctx context.Context, useCase exportavailability.InputPort) error {
+	return useCase.Execute(ctx, exportavailability.Command{})
 }
